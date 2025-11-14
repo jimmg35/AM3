@@ -1,4 +1,67 @@
 CountyCode,CountyName,ElectionName,PrecinctID,RegisteredTotal,RegisteredRepublican,RegisteredDemocrat,ContestName,District,YesVotes,NoVotes,key
+ALA,Alachua,2024 General Election,1,1324,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,607,484,ALA1
+ALA,Alachua,2024 General Election,2,2276,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1024,870,ALA2
+ALA,Alachua,2024 General Election,3,4031,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1889,1452,ALA3
+ALA,Alachua,2024 General Election,4,3473,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1552,1429,ALA4
+ALA,Alachua,2024 General Election,5,3221,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2656,772,ALA5
+ALA,Alachua,2024 General Election,6,3418,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1578,1344,ALA6
+ALA,Alachua,2024 General Election,7,1953,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1334,244,ALA7
+ALA,Alachua,2024 General Election,8,1905,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,970,577,ALA8
+ALA,Alachua,2024 General Election,9,526,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,239,206,ALA9
+ALA,Alachua,2024 General Election,10,1530,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,822,512,ALA10
+ALA,Alachua,2024 General Election,11,3054,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1552,1012,ALA11
+ALA,Alachua,2024 General Election,12,1126,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,740,186,ALA12
+ALA,Alachua,2024 General Election,13,2113,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1083,307,ALA13
+ALA,Alachua,2024 General Election,14,1243,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,581,478,ALA14
+ALA,Alachua,2024 General Election,15,829,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,377,324,ALA15
+ALA,Alachua,2024 General Election,16,3763,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1824,1242,ALA16
+ALA,Alachua,2024 General Election,17,2112,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1212,538,ALA17
+ALA,Alachua,2024 General Election,18,2899,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1504,797,ALA18
+ALA,Alachua,2024 General Election,19,1482,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,875,162,ALA19
+ALA,Alachua,2024 General Election,20,3115,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1369,1276,ALA20
+ALA,Alachua,2024 General Election,21,3560,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2117,852,ALA21
+ALA,Alachua,2024 General Election,22,2749,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1596,771,ALA22
+ALA,Alachua,2024 General Election,23,2243,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1440,397,ALA23
+ALA,Alachua,2024 General Election,24,2890,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1818,731,ALA24
+ALA,Alachua,2024 General Election,25,1679,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1095,169,ALA25
+ALA,Alachua,2024 General Election,26,1375,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,887,296,ALA26
+ALA,Alachua,2024 General Election,27,3143,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2116,379,ALA27
+ALA,Alachua,2024 General Election,28,2516,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1382,408,ALA28
+ALA,Alachua,2024 General Election,29,2762,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1405,933,ALA29
+ALA,Alachua,2024 General Election,30,2369,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1338,439,ALA30
+ALA,Alachua,2024 General Election,31,2092,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1909,662,ALA31
+ALA,Alachua,2024 General Election,32,2848,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1958,645,ALA32
+ALA,Alachua,2024 General Election,33,2343,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1252,409,ALA33
+ALA,Alachua,2024 General Election,34,1250,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,584,399,ALA34
+ALA,Alachua,2024 General Election,35,1722,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1012,449,ALA35
+ALA,Alachua,2024 General Election,36,2847,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1573,415,ALA36
+ALA,Alachua,2024 General Election,37,4502,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2620,1227,ALA37
+ALA,Alachua,2024 General Election,38,4966,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2636,1379,ALA38
+ALA,Alachua,2024 General Election,39,2231,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1476,403,ALA39
+ALA,Alachua,2024 General Election,40,2034,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1239,269,ALA40
+ALA,Alachua,2024 General Election,41,3281,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1549,1284,ALA41
+ALA,Alachua,2024 General Election,42,2765,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1390,948,ALA42
+ALA,Alachua,2024 General Election,43,1912,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,938,290,ALA43
+ALA,Alachua,2024 General Election,44,2659,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1671,404,ALA44
+ALA,Alachua,2024 General Election,45,1261,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,736,388,ALA45
+ALA,Alachua,2024 General Election,46,4322,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2152,1458,ALA46
+ALA,Alachua,2024 General Election,47,3268,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1500,1273,ALA47
+ALA,Alachua,2024 General Election,48,5761,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,3003,1204,ALA48
+ALA,Alachua,2024 General Election,49,2491,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1216,930,ALA49
+ALA,Alachua,2024 General Election,50,2220,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1339,594,ALA50
+ALA,Alachua,2024 General Election,51,3044,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1758,910,ALA51
+ALA,Alachua,2024 General Election,52,2365,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1018,1087,ALA52
+ALA,Alachua,2024 General Election,53,2798,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1236,952,ALA53
+ALA,Alachua,2024 General Election,54,2910,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1733,518,ALA54
+ALA,Alachua,2024 General Election,55,1113,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,626,161,ALA55
+ALA,Alachua,2024 General Election,56,3192,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1563,1161,ALA56
+ALA,Alachua,2024 General Election,57,2187,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1293,365,ALA57
+ALA,Alachua,2024 General Election,58,3980,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2012,1289,ALA58
+ALA,Alachua,2024 General Election,59,3072,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2469,766,ALA59
+ALA,Alachua,2024 General Election,60,3743,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1713,1464,ALA60
+ALA,Alachua,2024 General Election,61,2821,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1600,819,ALA61
+ALA,Alachua,2024 General Election,62,2139,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1183,623,ALA62
+ALA,Alachua,2024 General Election,63,2551,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1280,941,ALA63
 BAK,Baker,2024 General Election,1A,2578,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,907,1004,BAK1A
 BAK,Baker,2024 General Election,2A,3911,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1358,1487,BAK2A
 BAK,Baker,2024 General Election,3A,3768,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1326,1587,BAK3A
@@ -3634,6 +3697,1210 @@ OSC,Osceola,2024 General Election,5206,1624,0,0,Amendment No. 3: Adult Personal 
 OSC,Osceola,2024 General Election,1521,2480,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1109,972,OSC1521
 OSC,Osceola,2024 General Election,1522,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,OSC1522
 OSC,Osceola,2024 General Election,4505,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,OSC4505
+PAL,Palm Beach,2024 General Election,1401,1776,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,758,808,PAL1401
+PAL,Palm Beach,2024 General Election,1501,1681,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,822,473,PAL1501
+PAL,Palm Beach,2024 General Election,1502,1757,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,934,516,PAL1502
+PAL,Palm Beach,2024 General Election,1503,1508,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,733,501,PAL1503
+PAL,Palm Beach,2024 General Election,1505,618,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,303,163,PAL1505
+PAL,Palm Beach,2024 General Election,1506,1909,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,969,633,PAL1506
+PAL,Palm Beach,2024 General Election,1507,1911,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1050,520,PAL1507
+PAL,Palm Beach,2024 General Election,1508,394,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,216,90,PAL1508
+PAL,Palm Beach,2024 General Election,1509,808,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,410,225,PAL1509
+PAL,Palm Beach,2024 General Election,1510,446,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,232,130,PAL1510
+PAL,Palm Beach,2024 General Election,1511,218,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,126,52,PAL1511
+PAL,Palm Beach,2024 General Election,1512,797,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,484,159,PAL1512
+PAL,Palm Beach,2024 General Election,1513,213,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,126,45,PAL1513
+PAL,Palm Beach,2024 General Election,1514,862,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,458,200,PAL1514
+PAL,Palm Beach,2024 General Election,1515,932,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,470,296,PAL1515
+PAL,Palm Beach,2024 General Election,1516,581,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,365,108,PAL1516
+PAL,Palm Beach,2024 General Election,1517,1157,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,532,392,PAL1517
+PAL,Palm Beach,2024 General Election,1518,982,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,497,223,PAL1518
+PAL,Palm Beach,2024 General Election,1519,1600,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,754,599,PAL1519
+PAL,Palm Beach,2024 General Election,1520,1271,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,569,483,PAL1520
+PAL,Palm Beach,2024 General Election,1521,1497,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,797,446,PAL1521
+PAL,Palm Beach,2024 General Election,1523,258,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,127,68,PAL1523
+PAL,Palm Beach,2024 General Election,1524,1327,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,635,360,PAL1524
+PAL,Palm Beach,2024 General Election,1525,1754,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,924,506,PAL1525
+PAL,Palm Beach,2024 General Election,1526,1059,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,524,353,PAL1526
+PAL,Palm Beach,2024 General Election,1527,936,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,447,341,PAL1527
+PAL,Palm Beach,2024 General Election,1528,1324,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,623,475,PAL1528
+PAL,Palm Beach,2024 General Election,1529,1919,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1214,423,PAL1529
+PAL,Palm Beach,2024 General Election,1530,250,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,136,80,PAL1530
+PAL,Palm Beach,2024 General Election,1531,447,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,232,119,PAL1531
+PAL,Palm Beach,2024 General Election,1532,1471,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,745,499,PAL1532
+PAL,Palm Beach,2024 General Election,1537,1947,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,878,430,PAL1537
+PAL,Palm Beach,2024 General Election,1538,1306,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,625,328,PAL1538
+PAL,Palm Beach,2024 General Election,1539,1794,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,821,380,PAL1539
+PAL,Palm Beach,2024 General Election,1540,1623,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,834,313,PAL1540
+PAL,Palm Beach,2024 General Election,1542,2197,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1025,584,PAL1542
+PAL,Palm Beach,2024 General Election,1543,1873,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,937,499,PAL1543
+PAL,Palm Beach,2024 General Election,1544,2174,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1164,494,PAL1544
+PAL,Palm Beach,2024 General Election,1545,563,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,309,154,PAL1545
+PAL,Palm Beach,2024 General Election,1601,1376,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,633,200,PAL1601
+PAL,Palm Beach,2024 General Election,1602,1218,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,649,160,PAL1602
+PAL,Palm Beach,2024 General Election,1603,1213,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,427,457,PAL1603
+PAL,Palm Beach,2024 General Election,1604,559,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,252,89,PAL1604
+PAL,Palm Beach,2024 General Election,1605,994,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,350,371,PAL1605
+PAL,Palm Beach,2024 General Election,1606,533,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,197,165,PAL1606
+PAL,Palm Beach,2024 General Election,1701,1316,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,649,500,PAL1701
+PAL,Palm Beach,2024 General Election,1702,1811,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,858,633,PAL1702
+PAL,Palm Beach,2024 General Election,1703,2621,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1256,968,PAL1703
+PAL,Palm Beach,2024 General Election,1704,647,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,321,211,PAL1704
+PAL,Palm Beach,2024 General Election,1705,2298,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1369,600,PAL1705
+PAL,Palm Beach,2024 General Election,1706,587,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,309,182,PAL1706
+PAL,Palm Beach,2024 General Election,1707,1252,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,759,335,PAL1707
+PAL,Palm Beach,2024 General Election,1708,938,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,524,247,PAL1708
+PAL,Palm Beach,2024 General Election,1709,2387,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1216,730,PAL1709
+PAL,Palm Beach,2024 General Election,1710,1782,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,825,608,PAL1710
+PAL,Palm Beach,2024 General Election,1711,1019,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,477,332,PAL1711
+PAL,Palm Beach,2024 General Election,1712,2248,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1204,782,PAL1712
+PAL,Palm Beach,2024 General Election,1713,1158,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,588,408,PAL1713
+PAL,Palm Beach,2024 General Election,1714,1245,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,612,464,PAL1714
+PAL,Palm Beach,2024 General Election,1715,1617,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,833,545,PAL1715
+PAL,Palm Beach,2024 General Election,1716,222,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,279,92,PAL1716
+PAL,Palm Beach,2024 General Election,1717,1662,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,861,519,PAL1717
+PAL,Palm Beach,2024 General Election,1718,2587,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1294,878,PAL1718
+PAL,Palm Beach,2024 General Election,1719,1845,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,903,668,PAL1719
+PAL,Palm Beach,2024 General Election,1720,789,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,366,313,PAL1720
+PAL,Palm Beach,2024 General Election,1721,2291,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1166,711,PAL1721
+PAL,Palm Beach,2024 General Election,1722,1844,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,900,645,PAL1722
+PAL,Palm Beach,2024 General Election,1723,1584,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,751,558,PAL1723
+PAL,Palm Beach,2024 General Election,1724,2213,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1056,735,PAL1724
+PAL,Palm Beach,2024 General Election,1725,987,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,440,283,PAL1725
+PAL,Palm Beach,2024 General Election,1726,2495,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1244,859,PAL1726
+PAL,Palm Beach,2024 General Election,1727,1995,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,946,771,PAL1727
+PAL,Palm Beach,2024 General Election,1728,1951,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,973,740,PAL1728
+PAL,Palm Beach,2024 General Election,1729,1993,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,957,737,PAL1729
+PAL,Palm Beach,2024 General Election,1730,4068,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1892,1617,PAL1730
+PAL,Palm Beach,2024 General Election,1732,1323,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,648,442,PAL1732
+PAL,Palm Beach,2024 General Election,1733,2867,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1428,948,PAL1733
+PAL,Palm Beach,2024 General Election,1734,2265,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,985,906,PAL1734
+PAL,Palm Beach,2024 General Election,1735,959,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,403,382,PAL1735
+PAL,Palm Beach,2024 General Election,1736,1341,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,645,477,PAL1736
+PAL,Palm Beach,2024 General Election,1737,1183,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,565,414,PAL1737
+PAL,Palm Beach,2024 General Election,1738,474,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,235,174,PAL1738
+PAL,Palm Beach,2024 General Election,1739,1180,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,539,371,PAL1739
+PAL,Palm Beach,2024 General Election,1801,249,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,90,101,PAL1801
+PAL,Palm Beach,2024 General Election,1901,76,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,32,32,PAL1901
+PAL,Palm Beach,2024 General Election,2401,143,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,80,47,PAL2401
+PAL,Palm Beach,2024 General Election,2402,1033,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,606,281,PAL2402
+PAL,Palm Beach,2024 General Election,2403,1181,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,624,411,PAL2403
+PAL,Palm Beach,2024 General Election,2404,1245,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,669,414,PAL2404
+PAL,Palm Beach,2024 General Election,2405,1766,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1029,470,PAL2405
+PAL,Palm Beach,2024 General Election,2406,595,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,299,191,PAL2406
+PAL,Palm Beach,2024 General Election,2408,1824,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,961,615,PAL2408
+PAL,Palm Beach,2024 General Election,2409,607,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,262,142,PAL2409
+PAL,Palm Beach,2024 General Election,2410,2236,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1145,744,PAL2410
+PAL,Palm Beach,2024 General Election,2411,878,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,405,328,PAL2411
+PAL,Palm Beach,2024 General Election,2412,1959,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1051,613,PAL2412
+PAL,Palm Beach,2024 General Election,2413,1070,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,552,389,PAL2413
+PAL,Palm Beach,2024 General Election,2414,1486,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,773,462,PAL2414
+PAL,Palm Beach,2024 General Election,2415,1614,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,854,481,PAL2415
+PAL,Palm Beach,2024 General Election,2416,1904,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,940,676,PAL2416
+PAL,Palm Beach,2024 General Election,2417,2009,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1096,625,PAL2417
+PAL,Palm Beach,2024 General Election,2418,1174,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,642,269,PAL2418
+PAL,Palm Beach,2024 General Election,2419,1046,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,571,307,PAL2419
+PAL,Palm Beach,2024 General Election,2420,1491,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,809,410,PAL2420
+PAL,Palm Beach,2024 General Election,2421,1656,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,855,436,PAL2421
+PAL,Palm Beach,2024 General Election,2422,1791,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,912,616,PAL2422
+PAL,Palm Beach,2024 General Election,2423,62,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,45,15,PAL2423
+PAL,Palm Beach,2024 General Election,2424,381,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,187,103,PAL2424
+PAL,Palm Beach,2024 General Election,2425,16,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,3,4,PAL2425
+PAL,Palm Beach,2024 General Election,2426,1171,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,617,302,PAL2426
+PAL,Palm Beach,2024 General Election,2427,1890,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,960,490,PAL2427
+PAL,Palm Beach,2024 General Election,2428,99,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,45,31,PAL2428
+PAL,Palm Beach,2024 General Election,2429,1736,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,978,316,PAL2429
+PAL,Palm Beach,2024 General Election,2430,606,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,361,148,PAL2430
+PAL,Palm Beach,2024 General Election,2433,1061,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,477,273,PAL2433
+PAL,Palm Beach,2024 General Election,2434,1893,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1002,319,PAL2434
+PAL,Palm Beach,2024 General Election,2435,1658,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,846,338,PAL2435
+PAL,Palm Beach,2024 General Election,2436,961,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,441,219,PAL2436
+PAL,Palm Beach,2024 General Election,2437,540,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,298,173,PAL2437
+PAL,Palm Beach,2024 General Election,2438,675,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,359,155,PAL2438
+PAL,Palm Beach,2024 General Election,2501,3047,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1328,996,PAL2501
+PAL,Palm Beach,2024 General Election,2503,2119,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,979,708,PAL2503
+PAL,Palm Beach,2024 General Election,2504,2229,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,977,791,PAL2504
+PAL,Palm Beach,2024 General Election,2505,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2,3,PAL2505
+PAL,Palm Beach,2024 General Election,2506,2466,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1117,875,PAL2506
+PAL,Palm Beach,2024 General Election,2508,1686,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,659,498,PAL2508
+PAL,Palm Beach,2024 General Election,2509,1458,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,619,413,PAL2509
+PAL,Palm Beach,2024 General Election,2510,1065,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,609,418,PAL2510
+PAL,Palm Beach,2024 General Election,2511,1080,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,354,229,PAL2511
+PAL,Palm Beach,2024 General Election,2512,4,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,5,0,PAL2512
+PAL,Palm Beach,2024 General Election,2513,1036,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,413,303,PAL2513
+PAL,Palm Beach,2024 General Election,2515,1875,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,879,606,PAL2515
+PAL,Palm Beach,2024 General Election,2517,1525,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,664,525,PAL2517
+PAL,Palm Beach,2024 General Election,2518,700,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,314,242,PAL2518
+PAL,Palm Beach,2024 General Election,2519,41,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,17,9,PAL2519
+PAL,Palm Beach,2024 General Election,2601,147,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,62,67,PAL2601
+PAL,Palm Beach,2024 General Election,2701,831,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,336,380,PAL2701
+PAL,Palm Beach,2024 General Election,2801,3630,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1717,1333,PAL2801
+PAL,Palm Beach,2024 General Election,2901,1125,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,462,416,PAL2901
+PAL,Palm Beach,2024 General Election,3401,1596,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,807,536,PAL3401
+PAL,Palm Beach,2024 General Election,3402,360,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,187,95,PAL3402
+PAL,Palm Beach,2024 General Election,3501,153,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,73,53,PAL3501
+PAL,Palm Beach,2024 General Election,3502,1737,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,749,748,PAL3502
+PAL,Palm Beach,2024 General Election,3503,164,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,82,66,PAL3503
+PAL,Palm Beach,2024 General Election,3504,890,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,383,343,PAL3504
+PAL,Palm Beach,2024 General Election,3505,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1,0,PAL3505
+PAL,Palm Beach,2024 General Election,3506,45,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,19,23,PAL3506
+PAL,Palm Beach,2024 General Election,3601,401,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,170,189,PAL3601
+PAL,Palm Beach,2024 General Election,3701,1439,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,625,654,PAL3701
+PAL,Palm Beach,2024 General Election,3702,1056,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,463,453,PAL3702
+PAL,Palm Beach,2024 General Election,3704,2765,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1366,977,PAL3704
+PAL,Palm Beach,2024 General Election,3705,1580,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,753,627,PAL3705
+PAL,Palm Beach,2024 General Election,3706,1616,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,860,553,PAL3706
+PAL,Palm Beach,2024 General Election,3707,2302,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1144,945,PAL3707
+PAL,Palm Beach,2024 General Election,3708,1810,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,898,601,PAL3708
+PAL,Palm Beach,2024 General Election,3709,1111,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,551,404,PAL3709
+PAL,Palm Beach,2024 General Election,3710,599,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,293,225,PAL3710
+PAL,Palm Beach,2024 General Election,3711,1804,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,837,651,PAL3711
+PAL,Palm Beach,2024 General Election,3712,2642,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1248,1062,PAL3712
+PAL,Palm Beach,2024 General Election,3713,2751,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1318,1071,PAL3713
+PAL,Palm Beach,2024 General Election,3714,825,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,385,328,PAL3714
+PAL,Palm Beach,2024 General Election,3715,1271,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,649,361,PAL3715
+PAL,Palm Beach,2024 General Election,3716,902,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,443,381,PAL3716
+PAL,Palm Beach,2024 General Election,3717,1298,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,599,437,PAL3717
+PAL,Palm Beach,2024 General Election,3718,2090,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1044,734,PAL3718
+PAL,Palm Beach,2024 General Election,3719,2410,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1134,917,PAL3719
+PAL,Palm Beach,2024 General Election,3721,2014,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,973,784,PAL3721
+PAL,Palm Beach,2024 General Election,3722,2,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,2,PAL3722
+PAL,Palm Beach,2024 General Election,3723,1455,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,619,603,PAL3723
+PAL,Palm Beach,2024 General Election,3724,2846,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1331,1082,PAL3724
+PAL,Palm Beach,2024 General Election,3725,1104,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,507,466,PAL3725
+PAL,Palm Beach,2024 General Election,3727,2220,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1055,893,PAL3727
+PAL,Palm Beach,2024 General Election,3728,1250,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,588,463,PAL3728
+PAL,Palm Beach,2024 General Election,3730,238,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,100,104,PAL3730
+PAL,Palm Beach,2024 General Election,3801,39,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,6,13,PAL3801
+PAL,Palm Beach,2024 General Election,3802,1128,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,554,381,PAL3802
+PAL,Palm Beach,2024 General Election,3803,2344,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1119,682,PAL3803
+PAL,Palm Beach,2024 General Election,3804,1876,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,867,469,PAL3804
+PAL,Palm Beach,2024 General Election,3805,744,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,379,241,PAL3805
+PAL,Palm Beach,2024 General Election,3901,3,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,3,PAL3901
+PAL,Palm Beach,2024 General Election,3902,2501,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1175,994,PAL3902
+PAL,Palm Beach,2024 General Election,4401,1992,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,884,717,PAL4401
+PAL,Palm Beach,2024 General Election,4502,1634,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,802,427,PAL4502
+PAL,Palm Beach,2024 General Election,4503,783,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,366,298,PAL4503
+PAL,Palm Beach,2024 General Election,4504,302,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,132,53,PAL4504
+PAL,Palm Beach,2024 General Election,4505,1346,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,621,313,PAL4505
+PAL,Palm Beach,2024 General Election,4601,1155,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,485,249,PAL4601
+PAL,Palm Beach,2024 General Election,4602,1187,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,504,340,PAL4602
+PAL,Palm Beach,2024 General Election,4603,1005,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,470,284,PAL4603
+PAL,Palm Beach,2024 General Election,4604,1300,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,811,294,PAL4604
+PAL,Palm Beach,2024 General Election,4605,1499,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,870,423,PAL4605
+PAL,Palm Beach,2024 General Election,4606,29,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,10,6,PAL4606
+PAL,Palm Beach,2024 General Election,4607,248,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,123,51,PAL4607
+PAL,Palm Beach,2024 General Election,4608,566,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,258,167,PAL4608
+PAL,Palm Beach,2024 General Election,4609,135,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,72,27,PAL4609
+PAL,Palm Beach,2024 General Election,4610,881,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,547,158,PAL4610
+PAL,Palm Beach,2024 General Election,4611,1158,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,610,231,PAL4611
+PAL,Palm Beach,2024 General Election,4612,554,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,322,130,PAL4612
+PAL,Palm Beach,2024 General Election,4613,132,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,68,24,PAL4613
+PAL,Palm Beach,2024 General Election,4614,1130,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,561,336,PAL4614
+PAL,Palm Beach,2024 General Election,4615,771,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,301,163,PAL4615
+PAL,Palm Beach,2024 General Election,4616,663,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,269,160,PAL4616
+PAL,Palm Beach,2024 General Election,4617,535,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,294,138,PAL4617
+PAL,Palm Beach,2024 General Election,4618,127,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,64,25,PAL4618
+PAL,Palm Beach,2024 General Election,4620,701,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,405,152,PAL4620
+PAL,Palm Beach,2024 General Election,4621,210,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,97,33,PAL4621
+PAL,Palm Beach,2024 General Election,4622,216,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,93,55,PAL4622
+PAL,Palm Beach,2024 General Election,4623,828,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,362,221,PAL4623
+PAL,Palm Beach,2024 General Election,4624,150,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,56,32,PAL4624
+PAL,Palm Beach,2024 General Election,4701,356,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,147,143,PAL4701
+PAL,Palm Beach,2024 General Election,4801,896,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,448,150,PAL4801
+PAL,Palm Beach,2024 General Election,4901,210,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,87,102,PAL4901
+PAL,Palm Beach,2024 General Election,4902,477,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,258,151,PAL4902
+PAL,Palm Beach,2024 General Election,4903,181,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,76,89,PAL4903
+PAL,Palm Beach,2024 General Election,4904,23,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,10,11,PAL4904
+PAL,Palm Beach,2024 General Election,4905,1873,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,926,689,PAL4905
+PAL,Palm Beach,2024 General Election,4906,910,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,493,295,PAL4906
+PAL,Palm Beach,2024 General Election,4907,11,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,7,3,PAL4907
+PAL,Palm Beach,2024 General Election,4908,1031,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,466,435,PAL4908
+PAL,Palm Beach,2024 General Election,4909,1069,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,437,492,PAL4909
+PAL,Palm Beach,2024 General Election,4910,2022,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,893,833,PAL4910
+PAL,Palm Beach,2024 General Election,4911,175,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,73,84,PAL4911
+PAL,Palm Beach,2024 General Election,4912,1026,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,527,391,PAL4912
+PAL,Palm Beach,2024 General Election,4913,593,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,270,219,PAL4913
+PAL,Palm Beach,2024 General Election,5401,1477,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,706,594,PAL5401
+PAL,Palm Beach,2024 General Election,5501,2132,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,974,521,PAL5501
+PAL,Palm Beach,2024 General Election,5601,2052,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,747,962,PAL5601
+PAL,Palm Beach,2024 General Election,5602,1305,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,498,545,PAL5602
+PAL,Palm Beach,2024 General Election,5603,1182,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,376,584,PAL5603
+PAL,Palm Beach,2024 General Election,5604,522,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,190,239,PAL5604
+PAL,Palm Beach,2024 General Election,5605,1672,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,744,637,PAL5605
+PAL,Palm Beach,2024 General Election,5607,914,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,418,357,PAL5607
+PAL,Palm Beach,2024 General Election,5608,101,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,43,45,PAL5608
+PAL,Palm Beach,2024 General Election,5705,1711,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,839,614,PAL5705
+PAL,Palm Beach,2024 General Election,5706,1361,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,652,521,PAL5706
+PAL,Palm Beach,2024 General Election,5707,188,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,82,75,PAL5707
+PAL,Palm Beach,2024 General Election,5708,3066,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1474,1079,PAL5708
+PAL,Palm Beach,2024 General Election,5709,1508,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,692,594,PAL5709
+PAL,Palm Beach,2024 General Election,5710,1311,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,681,465,PAL5710
+PAL,Palm Beach,2024 General Election,5712,596,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,284,265,PAL5712
+PAL,Palm Beach,2024 General Election,5713,1012,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,456,470,PAL5713
+PAL,Palm Beach,2024 General Election,5718,1693,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,929,565,PAL5718
+PAL,Palm Beach,2024 General Election,5719,2787,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1335,1083,PAL5719
+PAL,Palm Beach,2024 General Election,5720,3580,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1759,1340,PAL5720
+PAL,Palm Beach,2024 General Election,5722,2344,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1136,879,PAL5722
+PAL,Palm Beach,2024 General Election,5723,282,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,122,124,PAL5723
+PAL,Palm Beach,2024 General Election,5724,1394,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,653,570,PAL5724
+PAL,Palm Beach,2024 General Election,5725,59,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,25,26,PAL5725
+PAL,Palm Beach,2024 General Election,5726,2281,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1320,698,PAL5726
+PAL,Palm Beach,2024 General Election,5727,404,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,187,162,PAL5727
+PAL,Palm Beach,2024 General Election,5728,1139,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,589,418,PAL5728
+PAL,Palm Beach,2024 General Election,5729,339,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,185,64,PAL5729
+PAL,Palm Beach,2024 General Election,5732,250,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,137,66,PAL5732
+PAL,Palm Beach,2024 General Election,5733,6,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,4,4,PAL5733
+PAL,Palm Beach,2024 General Election,5734,1778,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,905,625,PAL5734
+PAL,Palm Beach,2024 General Election,5735,1381,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,655,514,PAL5735
+PAL,Palm Beach,2024 General Election,5736,392,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,193,154,PAL5736
+PAL,Palm Beach,2024 General Election,5737,322,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,176,97,PAL5737
+PAL,Palm Beach,2024 General Election,5738,41,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,26,10,PAL5738
+PAL,Palm Beach,2024 General Election,5739,1910,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,892,718,PAL5739
+PAL,Palm Beach,2024 General Election,5740,186,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,86,81,PAL5740
+PAL,Palm Beach,2024 General Election,5741,74,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,36,30,PAL5741
+PAL,Palm Beach,2024 General Election,5742,463,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,220,129,PAL5742
+PAL,Palm Beach,2024 General Election,5743,96,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,48,27,PAL5743
+PAL,Palm Beach,2024 General Election,5744,3,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1,2,PAL5744
+PAL,Palm Beach,2024 General Election,5746,1238,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,647,382,PAL5746
+PAL,Palm Beach,2024 General Election,5747,545,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,251,229,PAL5747
+PAL,Palm Beach,2024 General Election,5748,15,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,9,5,PAL5748
+PAL,Palm Beach,2024 General Election,5749,1108,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,454,497,PAL5749
+PAL,Palm Beach,2024 General Election,5750,979,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,461,348,PAL5750
+PAL,Palm Beach,2024 General Election,5752,885,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,368,378,PAL5752
+PAL,Palm Beach,2024 General Election,5753,110,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,44,52,PAL5753
+PAL,Palm Beach,2024 General Election,5754,889,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,362,306,PAL5754
+PAL,Palm Beach,2024 General Election,5755,1941,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,899,641,PAL5755
+PAL,Palm Beach,2024 General Election,5756,7,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2,4,PAL5756
+PAL,Palm Beach,2024 General Election,5757,2320,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1065,934,PAL5757
+PAL,Palm Beach,2024 General Election,5758,817,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,368,347,PAL5758
+PAL,Palm Beach,2024 General Election,5759,141,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,62,35,PAL5759
+PAL,Palm Beach,2024 General Election,5761,7,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,4,2,PAL5761
+PAL,Palm Beach,2024 General Election,5801,901,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,400,370,PAL5801
+PAL,Palm Beach,2024 General Election,5901,1281,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,521,367,PAL5901
+PAL,Palm Beach,2024 General Election,5902,698,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,274,211,PAL5902
+PAL,Palm Beach,2024 General Election,5908,2482,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1008,909,PAL5908
+PAL,Palm Beach,2024 General Election,5910,121,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,43,35,PAL5910
+PAL,Palm Beach,2024 General Election,5911,1959,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,796,694,PAL5911
+PAL,Palm Beach,2024 General Election,5912,1394,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,516,497,PAL5912
+PAL,Palm Beach,2024 General Election,5916,1544,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,593,434,PAL5916
+PAL,Palm Beach,2024 General Election,5920,269,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,137,54,PAL5920
+PAL,Palm Beach,2024 General Election,5921,8,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,5,2,PAL5921
+PAL,Palm Beach,2024 General Election,6401,1653,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,836,520,PAL6401
+PAL,Palm Beach,2024 General Election,6403,203,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,91,33,PAL6403
+PAL,Palm Beach,2024 General Election,6404,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL6404
+PAL,Palm Beach,2024 General Election,6405,1069,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,456,436,PAL6405
+PAL,Palm Beach,2024 General Election,6406,2360,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,981,972,PAL6406
+PAL,Palm Beach,2024 General Election,6411,1351,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,727,339,PAL6411
+PAL,Palm Beach,2024 General Election,6412,1616,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,845,261,PAL6412
+PAL,Palm Beach,2024 General Election,6413,378,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,208,93,PAL6413
+PAL,Palm Beach,2024 General Election,6414,2254,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1139,392,PAL6414
+PAL,Palm Beach,2024 General Election,6415,1902,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1008,333,PAL6415
+PAL,Palm Beach,2024 General Election,6416,295,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,149,89,PAL6416
+PAL,Palm Beach,2024 General Election,6417,1747,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,842,506,PAL6417
+PAL,Palm Beach,2024 General Election,6418,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL6418
+PAL,Palm Beach,2024 General Election,6419,1297,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,664,208,PAL6419
+PAL,Palm Beach,2024 General Election,6420,425,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,216,64,PAL6420
+PAL,Palm Beach,2024 General Election,6421,1646,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,834,261,PAL6421
+PAL,Palm Beach,2024 General Election,6422,555,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,281,109,PAL6422
+PAL,Palm Beach,2024 General Election,6423,212,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,93,62,PAL6423
+PAL,Palm Beach,2024 General Election,6424,859,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,392,259,PAL6424
+PAL,Palm Beach,2024 General Election,6425,566,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,273,187,PAL6425
+PAL,Palm Beach,2024 General Election,6426,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1,0,PAL6426
+PAL,Palm Beach,2024 General Election,6427,769,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,361,139,PAL6427
+PAL,Palm Beach,2024 General Election,6501,1924,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,858,778,PAL6501
+PAL,Palm Beach,2024 General Election,6502,2405,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1190,850,PAL6502
+PAL,Palm Beach,2024 General Election,6503,1443,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,664,532,PAL6503
+PAL,Palm Beach,2024 General Election,6504,408,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,178,152,PAL6504
+PAL,Palm Beach,2024 General Election,6505,471,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,191,177,PAL6505
+PAL,Palm Beach,2024 General Election,6506,1229,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,539,510,PAL6506
+PAL,Palm Beach,2024 General Election,6507,2365,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1130,858,PAL6507
+PAL,Palm Beach,2024 General Election,6508,1417,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,700,422,PAL6508
+PAL,Palm Beach,2024 General Election,6509,1899,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,920,608,PAL6509
+PAL,Palm Beach,2024 General Election,6510,1577,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,702,635,PAL6510
+PAL,Palm Beach,2024 General Election,6511,1760,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,835,606,PAL6511
+PAL,Palm Beach,2024 General Election,6512,1083,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,493,329,PAL6512
+PAL,Palm Beach,2024 General Election,6513,622,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,314,208,PAL6513
+PAL,Palm Beach,2024 General Election,6515,1082,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,505,389,PAL6515
+PAL,Palm Beach,2024 General Election,6516,1836,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,827,617,PAL6516
+PAL,Palm Beach,2024 General Election,6517,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL6517
+PAL,Palm Beach,2024 General Election,6519,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL6519
+PAL,Palm Beach,2024 General Election,6522,1381,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,662,429,PAL6522
+PAL,Palm Beach,2024 General Election,6523,996,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,446,269,PAL6523
+PAL,Palm Beach,2024 General Election,6524,104,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,47,38,PAL6524
+PAL,Palm Beach,2024 General Election,6525,436,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,199,132,PAL6525
+PAL,Palm Beach,2024 General Election,6526,96,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,51,31,PAL6526
+PAL,Palm Beach,2024 General Election,6601,1317,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,581,246,PAL6601
+PAL,Palm Beach,2024 General Election,6701,1216,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,574,460,PAL6701
+PAL,Palm Beach,2024 General Election,6801,1530,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,696,681,PAL6801
+PAL,Palm Beach,2024 General Election,6802,119,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,67,45,PAL6802
+PAL,Palm Beach,2024 General Election,6803,1777,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,969,634,PAL6803
+PAL,Palm Beach,2024 General Election,6804,58,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,22,28,PAL6804
+PAL,Palm Beach,2024 General Election,6806,663,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,334,235,PAL6806
+PAL,Palm Beach,2024 General Election,6807,353,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,156,152,PAL6807
+PAL,Palm Beach,2024 General Election,6901,257,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,95,130,PAL6901
+PAL,Palm Beach,2024 General Election,7401,1443,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,641,596,PAL7401
+PAL,Palm Beach,2024 General Election,7402,85,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,38,25,PAL7402
+PAL,Palm Beach,2024 General Election,7403,1321,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,587,529,PAL7403
+PAL,Palm Beach,2024 General Election,7404,1557,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,698,617,PAL7404
+PAL,Palm Beach,2024 General Election,7405,2320,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1064,891,PAL7405
+PAL,Palm Beach,2024 General Election,7406,1518,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,674,616,PAL7406
+PAL,Palm Beach,2024 General Election,7407,227,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,81,101,PAL7407
+PAL,Palm Beach,2024 General Election,7408,2463,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1209,864,PAL7408
+PAL,Palm Beach,2024 General Election,7409,2455,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1100,938,PAL7409
+PAL,Palm Beach,2024 General Election,7410,2512,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1188,933,PAL7410
+PAL,Palm Beach,2024 General Election,7411,2310,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1079,811,PAL7411
+PAL,Palm Beach,2024 General Election,7412,1466,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,605,540,PAL7412
+PAL,Palm Beach,2024 General Election,7413,2111,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,993,715,PAL7413
+PAL,Palm Beach,2024 General Election,7414,2740,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1287,887,PAL7414
+PAL,Palm Beach,2024 General Election,7415,951,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,455,330,PAL7415
+PAL,Palm Beach,2024 General Election,7418,1043,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,446,400,PAL7418
+PAL,Palm Beach,2024 General Election,7419,1976,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,902,636,PAL7419
+PAL,Palm Beach,2024 General Election,7420,838,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,370,327,PAL7420
+PAL,Palm Beach,2024 General Election,7421,337,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,168,96,PAL7421
+PAL,Palm Beach,2024 General Election,7423,690,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,358,269,PAL7423
+PAL,Palm Beach,2024 General Election,7424,3701,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1588,1456,PAL7424
+PAL,Palm Beach,2024 General Election,7426,2193,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,990,800,PAL7426
+PAL,Palm Beach,2024 General Election,7428,127,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,55,47,PAL7428
+PAL,Palm Beach,2024 General Election,7429,1957,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,815,843,PAL7429
+PAL,Palm Beach,2024 General Election,7501,4645,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2270,1791,PAL7501
+PAL,Palm Beach,2024 General Election,7601,351,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,179,106,PAL7601
+PAL,Palm Beach,2024 General Election,7602,995,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,478,328,PAL7602
+PAL,Palm Beach,2024 General Election,7603,294,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,154,45,PAL7603
+PAL,Palm Beach,2024 General Election,7605,1651,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,774,674,PAL7605
+PAL,Palm Beach,2024 General Election,7606,1822,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,839,678,PAL7606
+PAL,Palm Beach,2024 General Election,7607,1968,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,917,800,PAL7607
+PAL,Palm Beach,2024 General Election,7608,191,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,110,32,PAL7608
+PAL,Palm Beach,2024 General Election,7611,191,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,100,48,PAL7611
+PAL,Palm Beach,2024 General Election,7612,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1,0,PAL7612
+PAL,Palm Beach,2024 General Election,7613,573,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,284,139,PAL7613
+PAL,Palm Beach,2024 General Election,7614,2207,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,973,635,PAL7614
+PAL,Palm Beach,2024 General Election,7615,1759,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,940,534,PAL7615
+PAL,Palm Beach,2024 General Election,7618,1301,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,651,437,PAL7618
+PAL,Palm Beach,2024 General Election,7620,131,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,67,44,PAL7620
+PAL,Palm Beach,2024 General Election,7621,2451,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1099,753,PAL7621
+PAL,Palm Beach,2024 General Election,7622,609,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,269,175,PAL7622
+PAL,Palm Beach,2024 General Election,7623,1238,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,626,429,PAL7623
+PAL,Palm Beach,2024 General Election,7624,1753,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,787,751,PAL7624
+PAL,Palm Beach,2024 General Election,7626,2918,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1589,985,PAL7626
+PAL,Palm Beach,2024 General Election,7628,518,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,212,252,PAL7628
+PAL,Palm Beach,2024 General Election,7630,298,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,167,31,PAL7630
+PAL,Palm Beach,2024 General Election,7631,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL7631
+PAL,Palm Beach,2024 General Election,7634,2373,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1275,560,PAL7634
+PAL,Palm Beach,2024 General Election,7635,1368,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,768,303,PAL7635
+PAL,Palm Beach,2024 General Election,7636,1580,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,832,301,PAL7636
+PAL,Palm Beach,2024 General Election,7637,780,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,335,149,PAL7637
+PAL,Palm Beach,2024 General Election,7638,1482,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,812,326,PAL7638
+PAL,Palm Beach,2024 General Election,7639,1077,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,512,347,PAL7639
+PAL,Palm Beach,2024 General Election,7640,1064,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,527,278,PAL7640
+PAL,Palm Beach,2024 General Election,7642,582,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,286,129,PAL7642
+PAL,Palm Beach,2024 General Election,7643,61,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,27,13,PAL7643
+PAL,Palm Beach,2024 General Election,7644,1537,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,756,465,PAL7644
+PAL,Palm Beach,2024 General Election,7645,1336,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,681,432,PAL7645
+PAL,Palm Beach,2024 General Election,7646,2333,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1245,588,PAL7646
+PAL,Palm Beach,2024 General Election,7647,209,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,104,68,PAL7647
+PAL,Palm Beach,2024 General Election,7648,885,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,437,251,PAL7648
+PAL,Palm Beach,2024 General Election,7650,1929,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,998,462,PAL7650
+PAL,Palm Beach,2024 General Election,7651,2665,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1397,757,PAL7651
+PAL,Palm Beach,2024 General Election,7653,2310,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1072,363,PAL7653
+PAL,Palm Beach,2024 General Election,7654,1376,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,698,422,PAL7654
+PAL,Palm Beach,2024 General Election,7655,421,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,195,110,PAL7655
+PAL,Palm Beach,2024 General Election,7657,1405,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,669,342,PAL7657
+PAL,Palm Beach,2024 General Election,7658,1103,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,530,211,PAL7658
+PAL,Palm Beach,2024 General Election,7659,2210,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1073,373,PAL7659
+PAL,Palm Beach,2024 General Election,7660,1837,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,952,553,PAL7660
+PAL,Palm Beach,2024 General Election,7664,2695,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1441,826,PAL7664
+PAL,Palm Beach,2024 General Election,7665,1141,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,503,425,PAL7665
+PAL,Palm Beach,2024 General Election,7666,771,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,251,80,PAL7666
+PAL,Palm Beach,2024 General Election,7667,781,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,359,226,PAL7667
+PAL,Palm Beach,2024 General Election,7668,1248,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,605,291,PAL7668
+PAL,Palm Beach,2024 General Election,7669,61,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,29,7,PAL7669
+PAL,Palm Beach,2024 General Election,7670,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL7670
+PAL,Palm Beach,2024 General Election,7671,111,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,51,30,PAL7671
+PAL,Palm Beach,2024 General Election,7672,2,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,2,PAL7672
+PAL,Palm Beach,2024 General Election,7673,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL7673
+PAL,Palm Beach,2024 General Election,8405,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1,0,PAL8405
+PAL,Palm Beach,2024 General Election,8408,2396,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1107,1015,PAL8408
+PAL,Palm Beach,2024 General Election,8409,736,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,308,314,PAL8409
+PAL,Palm Beach,2024 General Election,8410,2602,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1214,1084,PAL8410
+PAL,Palm Beach,2024 General Election,8411,23,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,8,10,PAL8411
+PAL,Palm Beach,2024 General Election,8412,1257,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,571,504,PAL8412
+PAL,Palm Beach,2024 General Election,8413,2059,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,939,912,PAL8413
+PAL,Palm Beach,2024 General Election,8414,93,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,40,42,PAL8414
+PAL,Palm Beach,2024 General Election,8415,1192,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,526,533,PAL8415
+PAL,Palm Beach,2024 General Election,8417,3206,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1505,1347,PAL8417
+PAL,Palm Beach,2024 General Election,8418,762,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,393,201,PAL8418
+PAL,Palm Beach,2024 General Election,8419,455,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,204,126,PAL8419
+PAL,Palm Beach,2024 General Election,8420,224,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,104,71,PAL8420
+PAL,Palm Beach,2024 General Election,8421,2433,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1109,1033,PAL8421
+PAL,Palm Beach,2024 General Election,8423,201,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,80,77,PAL8423
+PAL,Palm Beach,2024 General Election,8424,595,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,278,256,PAL8424
+PAL,Palm Beach,2024 General Election,8426,60,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,20,32,PAL8426
+PAL,Palm Beach,2024 General Election,8427,140,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,67,61,PAL8427
+PAL,Palm Beach,2024 General Election,8428,295,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,183,73,PAL8428
+PAL,Palm Beach,2024 General Election,8429,531,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,235,228,PAL8429
+PAL,Palm Beach,2024 General Election,8430,154,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,84,47,PAL8430
+PAL,Palm Beach,2024 General Election,8431,7,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,3,4,PAL8431
+PAL,Palm Beach,2024 General Election,8432,3,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1,2,PAL8432
+PAL,Palm Beach,2024 General Election,8434,1395,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,547,680,PAL8434
+PAL,Palm Beach,2024 General Election,8435,54,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,23,27,PAL8435
+PAL,Palm Beach,2024 General Election,8436,496,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,235,222,PAL8436
+PAL,Palm Beach,2024 General Election,8437,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8437
+PAL,Palm Beach,2024 General Election,8438,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,1,PAL8438
+PAL,Palm Beach,2024 General Election,8439,3,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2,0,PAL8439
+PAL,Palm Beach,2024 General Election,8440,11,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,5,4,PAL8440
+PAL,Palm Beach,2024 General Election,8441,40,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,12,25,PAL8441
+PAL,Palm Beach,2024 General Election,8447,1562,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,762,609,PAL8447
+PAL,Palm Beach,2024 General Election,8448,1318,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,661,389,PAL8448
+PAL,Palm Beach,2024 General Election,8450,1991,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,898,885,PAL8450
+PAL,Palm Beach,2024 General Election,8451,38,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,22,12,PAL8451
+PAL,Palm Beach,2024 General Election,8452,128,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,58,55,PAL8452
+PAL,Palm Beach,2024 General Election,8453,627,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,297,248,PAL8453
+PAL,Palm Beach,2024 General Election,8454,745,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,364,266,PAL8454
+PAL,Palm Beach,2024 General Election,8455,20,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,6,6,PAL8455
+PAL,Palm Beach,2024 General Election,8456,672,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,287,195,PAL8456
+PAL,Palm Beach,2024 General Election,8457,258,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,123,85,PAL8457
+PAL,Palm Beach,2024 General Election,8458,660,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,333,178,PAL8458
+PAL,Palm Beach,2024 General Election,8459,127,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,66,27,PAL8459
+PAL,Palm Beach,2024 General Election,8460,123,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,65,44,PAL8460
+PAL,Palm Beach,2024 General Election,8461,117,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,50,57,PAL8461
+PAL,Palm Beach,2024 General Election,8462,80,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,32,31,PAL8462
+PAL,Palm Beach,2024 General Election,8463,4,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,3,PAL8463
+PAL,Palm Beach,2024 General Election,8464,126,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,72,43,PAL8464
+PAL,Palm Beach,2024 General Election,8465,609,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,302,178,PAL8465
+PAL,Palm Beach,2024 General Election,8466,2,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1,1,PAL8466
+PAL,Palm Beach,2024 General Election,8468,43,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,17,21,PAL8468
+PAL,Palm Beach,2024 General Election,8469,113,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,58,28,PAL8469
+PAL,Palm Beach,2024 General Election,8470,159,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,65,70,PAL8470
+PAL,Palm Beach,2024 General Election,8471,551,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,138,337,PAL8471
+PAL,Palm Beach,2024 General Election,8472,800,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,327,259,PAL8472
+PAL,Palm Beach,2024 General Election,8474,218,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,92,69,PAL8474
+PAL,Palm Beach,2024 General Election,8475,335,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,148,110,PAL8475
+PAL,Palm Beach,2024 General Election,8476,320,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,155,82,PAL8476
+PAL,Palm Beach,2024 General Election,8477,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,1,PAL8477
+PAL,Palm Beach,2024 General Election,8481,2,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,1,PAL8481
+PAL,Palm Beach,2024 General Election,8483,7,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,6,PAL8483
+PAL,Palm Beach,2024 General Election,8485,76,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,19,44,PAL8485
+PAL,Palm Beach,2024 General Election,8487,11,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,6,3,PAL8487
+PAL,Palm Beach,2024 General Election,8488,2,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2,0,PAL8488
+PAL,Palm Beach,2024 General Election,8489,119,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,67,34,PAL8489
+PAL,Palm Beach,2024 General Election,8502,216,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,76,101,PAL8502
+PAL,Palm Beach,2024 General Election,8503,455,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,205,53,PAL8503
+PAL,Palm Beach,2024 General Election,8505,45,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,23,6,PAL8505
+PAL,Palm Beach,2024 General Election,8506,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,1,PAL8506
+PAL,Palm Beach,2024 General Election,8507,116,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,43,50,PAL8507
+PAL,Palm Beach,2024 General Election,8508,484,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,230,103,PAL8508
+PAL,Palm Beach,2024 General Election,8509,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8509
+PAL,Palm Beach,2024 General Election,8510,17,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,7,4,PAL8510
+PAL,Palm Beach,2024 General Election,8511,4,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1,3,PAL8511
+PAL,Palm Beach,2024 General Election,8513,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,1,PAL8513
+PAL,Palm Beach,2024 General Election,8514,143,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,50,50,PAL8514
+PAL,Palm Beach,2024 General Election,8601,1136,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,514,450,PAL8601
+PAL,Palm Beach,2024 General Election,8602,122,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,51,45,PAL8602
+PAL,Palm Beach,2024 General Election,8603,396,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,174,121,PAL8603
+PAL,Palm Beach,2024 General Election,8604,317,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,172,96,PAL8604
+PAL,Palm Beach,2024 General Election,8605,1495,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,674,498,PAL8605
+PAL,Palm Beach,2024 General Election,8606,1413,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,626,480,PAL8606
+PAL,Palm Beach,2024 General Election,8607,1180,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,518,366,PAL8607
+PAL,Palm Beach,2024 General Election,8608,635,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,272,232,PAL8608
+PAL,Palm Beach,2024 General Election,8609,852,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,377,214,PAL8609
+PAL,Palm Beach,2024 General Election,8610,1768,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,808,624,PAL8610
+PAL,Palm Beach,2024 General Election,8611,886,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,377,154,PAL8611
+PAL,Palm Beach,2024 General Election,8612,307,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,134,106,PAL8612
+PAL,Palm Beach,2024 General Election,8613,1025,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,326,293,PAL8613
+PAL,Palm Beach,2024 General Election,8614,1299,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,583,305,PAL8614
+PAL,Palm Beach,2024 General Election,8616,144,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,89,29,PAL8616
+PAL,Palm Beach,2024 General Election,8617,957,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,435,309,PAL8617
+PAL,Palm Beach,2024 General Election,8618,2086,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,894,689,PAL8618
+PAL,Palm Beach,2024 General Election,8619,944,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,386,282,PAL8619
+PAL,Palm Beach,2024 General Election,8620,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8620
+PAL,Palm Beach,2024 General Election,8621,425,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,204,143,PAL8621
+PAL,Palm Beach,2024 General Election,8622,1340,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,563,580,PAL8622
+PAL,Palm Beach,2024 General Election,8623,864,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,385,371,PAL8623
+PAL,Palm Beach,2024 General Election,8624,653,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,259,277,PAL8624
+PAL,Palm Beach,2024 General Election,8628,1095,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,478,413,PAL8628
+PAL,Palm Beach,2024 General Election,8631,614,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,261,186,PAL8631
+PAL,Palm Beach,2024 General Election,8632,1012,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,369,222,PAL8632
+PAL,Palm Beach,2024 General Election,8633,845,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,319,311,PAL8633
+PAL,Palm Beach,2024 General Election,8635,1835,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,701,628,PAL8635
+PAL,Palm Beach,2024 General Election,8636,1377,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,604,458,PAL8636
+PAL,Palm Beach,2024 General Election,8637,663,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,265,195,PAL8637
+PAL,Palm Beach,2024 General Election,8638,1752,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,722,539,PAL8638
+PAL,Palm Beach,2024 General Election,8639,1752,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,609,618,PAL8639
+PAL,Palm Beach,2024 General Election,8641,2021,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,821,737,PAL8641
+PAL,Palm Beach,2024 General Election,8645,2362,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,918,939,PAL8645
+PAL,Palm Beach,2024 General Election,8648,1352,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,519,513,PAL8648
+PAL,Palm Beach,2024 General Election,8649,1334,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,527,521,PAL8649
+PAL,Palm Beach,2024 General Election,8650,2127,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,779,668,PAL8650
+PAL,Palm Beach,2024 General Election,8651,1150,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,376,423,PAL8651
+PAL,Palm Beach,2024 General Election,8652,827,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,325,296,PAL8652
+PAL,Palm Beach,2024 General Election,8653,2458,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1107,872,PAL8653
+PAL,Palm Beach,2024 General Election,8654,1851,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,856,633,PAL8654
+PAL,Palm Beach,2024 General Election,8655,30,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,10,13,PAL8655
+PAL,Palm Beach,2024 General Election,8656,909,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,314,276,PAL8656
+PAL,Palm Beach,2024 General Election,8657,1306,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,596,513,PAL8657
+PAL,Palm Beach,2024 General Election,8658,2186,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1012,737,PAL8658
+PAL,Palm Beach,2024 General Election,8659,1544,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,802,441,PAL8659
+PAL,Palm Beach,2024 General Election,8660,30,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,9,16,PAL8660
+PAL,Palm Beach,2024 General Election,8661,1029,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,391,277,PAL8661
+PAL,Palm Beach,2024 General Election,8662,494,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,243,141,PAL8662
+PAL,Palm Beach,2024 General Election,8663,1342,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,582,363,PAL8663
+PAL,Palm Beach,2024 General Election,8664,1721,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,712,521,PAL8664
+PAL,Palm Beach,2024 General Election,8665,2209,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,947,572,PAL8665
+PAL,Palm Beach,2024 General Election,8666,155,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,52,49,PAL8666
+PAL,Palm Beach,2024 General Election,8668,1334,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,520,546,PAL8668
+PAL,Palm Beach,2024 General Election,8670,603,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,237,207,PAL8670
+PAL,Palm Beach,2024 General Election,8671,1039,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,399,326,PAL8671
+PAL,Palm Beach,2024 General Election,8672,1759,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,702,449,PAL8672
+PAL,Palm Beach,2024 General Election,8673,304,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,143,68,PAL8673
+PAL,Palm Beach,2024 General Election,8675,1978,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,954,678,PAL8675
+PAL,Palm Beach,2024 General Election,8676,1844,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,882,641,PAL8676
+PAL,Palm Beach,2024 General Election,8677,2951,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1563,973,PAL8677
+PAL,Palm Beach,2024 General Election,8678,2753,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1456,931,PAL8678
+PAL,Palm Beach,2024 General Election,8679,1305,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,613,400,PAL8679
+PAL,Palm Beach,2024 General Election,8680,1982,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1024,660,PAL8680
+PAL,Palm Beach,2024 General Election,8681,1672,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,802,593,PAL8681
+PAL,Palm Beach,2024 General Election,8682,1064,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,537,391,PAL8682
+PAL,Palm Beach,2024 General Election,8683,1222,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,532,439,PAL8683
+PAL,Palm Beach,2024 General Election,8684,1107,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,555,375,PAL8684
+PAL,Palm Beach,2024 General Election,8685,714,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,344,206,PAL8685
+PAL,Palm Beach,2024 General Election,8686,1214,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,557,395,PAL8686
+PAL,Palm Beach,2024 General Election,8687,1483,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,676,405,PAL8687
+PAL,Palm Beach,2024 General Election,8688,1563,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,675,397,PAL8688
+PAL,Palm Beach,2024 General Election,8689,766,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,403,236,PAL8689
+PAL,Palm Beach,2024 General Election,8690,2147,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1056,613,PAL8690
+PAL,Palm Beach,2024 General Election,8691,566,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,276,183,PAL8691
+PAL,Palm Beach,2024 General Election,8692,2295,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1332,714,PAL8692
+PAL,Palm Beach,2024 General Election,8693,1879,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,942,644,PAL8693
+PAL,Palm Beach,2024 General Election,8694,2139,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1104,712,PAL8694
+PAL,Palm Beach,2024 General Election,8695,2683,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1339,986,PAL8695
+PAL,Palm Beach,2024 General Election,8696,2060,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,988,686,PAL8696
+PAL,Palm Beach,2024 General Election,8697,1671,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,794,431,PAL8697
+PAL,Palm Beach,2024 General Election,8698,20,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,14,3,PAL8698
+PAL,Palm Beach,2024 General Election,8699,140,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,64,49,PAL8699
+PAL,Palm Beach,2024 General Election,8701,1322,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,736,442,PAL8701
+PAL,Palm Beach,2024 General Election,8702,1059,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,507,355,PAL8702
+PAL,Palm Beach,2024 General Election,8704,3,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8704
+PAL,Palm Beach,2024 General Election,8705,105,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,38,47,PAL8705
+PAL,Palm Beach,2024 General Election,8706,1295,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,550,510,PAL8706
+PAL,Palm Beach,2024 General Election,8711,2680,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1213,1122,PAL8711
+PAL,Palm Beach,2024 General Election,8712,3286,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1518,1253,PAL8712
+PAL,Palm Beach,2024 General Election,8713,1062,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,464,204,PAL8713
+PAL,Palm Beach,2024 General Election,8714,4,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,3,1,PAL8714
+PAL,Palm Beach,2024 General Election,8715,1632,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,827,507,PAL8715
+PAL,Palm Beach,2024 General Election,8716,1386,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,675,379,PAL8716
+PAL,Palm Beach,2024 General Election,8718,1073,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,521,273,PAL8718
+PAL,Palm Beach,2024 General Election,8719,187,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,86,59,PAL8719
+PAL,Palm Beach,2024 General Election,8720,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8720
+PAL,Palm Beach,2024 General Election,8721,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8721
+PAL,Palm Beach,2024 General Election,8722,63,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,25,14,PAL8722
+PAL,Palm Beach,2024 General Election,8723,469,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,205,95,PAL8723
+PAL,Palm Beach,2024 General Election,8724,1021,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,405,234,PAL8724
+PAL,Palm Beach,2024 General Election,8725,798,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,328,198,PAL8725
+PAL,Palm Beach,2024 General Election,8728,971,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,413,286,PAL8728
+PAL,Palm Beach,2024 General Election,8729,910,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,361,308,PAL8729
+PAL,Palm Beach,2024 General Election,8730,1330,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,502,416,PAL8730
+PAL,Palm Beach,2024 General Election,8731,161,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,35,34,PAL8731
+PAL,Palm Beach,2024 General Election,8733,1392,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,677,489,PAL8733
+PAL,Palm Beach,2024 General Election,8734,805,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,408,229,PAL8734
+PAL,Palm Beach,2024 General Election,8735,14,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,5,4,PAL8735
+PAL,Palm Beach,2024 General Election,8736,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8736
+PAL,Palm Beach,2024 General Election,8737,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8737
+PAL,Palm Beach,2024 General Election,8738,47,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,24,14,PAL8738
+PAL,Palm Beach,2024 General Election,8739,21,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,6,4,PAL8739
+PAL,Palm Beach,2024 General Election,8741,6,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1,3,PAL8741
+PAL,Palm Beach,2024 General Election,8742,174,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,83,60,PAL8742
+PAL,Palm Beach,2024 General Election,8743,644,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,370,188,PAL8743
+PAL,Palm Beach,2024 General Election,8744,390,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,193,98,PAL8744
+PAL,Palm Beach,2024 General Election,8745,857,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,420,261,PAL8745
+PAL,Palm Beach,2024 General Election,8746,583,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,281,199,PAL8746
+PAL,Palm Beach,2024 General Election,8747,14,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,3,0,PAL8747
+PAL,Palm Beach,2024 General Election,8748,837,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,434,271,PAL8748
+PAL,Palm Beach,2024 General Election,8801,1572,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,905,464,PAL8801
+PAL,Palm Beach,2024 General Election,8802,1485,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,765,498,PAL8802
+PAL,Palm Beach,2024 General Election,8803,405,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,182,164,PAL8803
+PAL,Palm Beach,2024 General Election,8804,1073,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,650,261,PAL8804
+PAL,Palm Beach,2024 General Election,8805,1337,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,727,455,PAL8805
+PAL,Palm Beach,2024 General Election,8806,1764,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,912,568,PAL8806
+PAL,Palm Beach,2024 General Election,8807,2559,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1336,821,PAL8807
+PAL,Palm Beach,2024 General Election,8808,958,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,493,269,PAL8808
+PAL,Palm Beach,2024 General Election,8809,1113,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,549,323,PAL8809
+PAL,Palm Beach,2024 General Election,8810,2224,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1134,552,PAL8810
+PAL,Palm Beach,2024 General Election,8811,1849,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,822,726,PAL8811
+PAL,Palm Beach,2024 General Election,8812,1626,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,773,592,PAL8812
+PAL,Palm Beach,2024 General Election,8813,1185,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,570,468,PAL8813
+PAL,Palm Beach,2024 General Election,8814,985,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,496,276,PAL8814
+PAL,Palm Beach,2024 General Election,8815,601,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,220,283,PAL8815
+PAL,Palm Beach,2024 General Election,8818,104,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,59,30,PAL8818
+PAL,Palm Beach,2024 General Election,8819,546,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,228,271,PAL8819
+PAL,Palm Beach,2024 General Election,8820,341,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,171,141,PAL8820
+PAL,Palm Beach,2024 General Election,8821,2,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2,0,PAL8821
+PAL,Palm Beach,2024 General Election,8822,12,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,6,5,PAL8822
+PAL,Palm Beach,2024 General Election,8823,120,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,62,36,PAL8823
+PAL,Palm Beach,2024 General Election,8824,11,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,6,4,PAL8824
+PAL,Palm Beach,2024 General Election,8825,3,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,3,PAL8825
+PAL,Palm Beach,2024 General Election,8826,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8826
+PAL,Palm Beach,2024 General Election,8827,84,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,49,20,PAL8827
+PAL,Palm Beach,2024 General Election,8828,343,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,165,129,PAL8828
+PAL,Palm Beach,2024 General Election,8829,84,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,35,43,PAL8829
+PAL,Palm Beach,2024 General Election,8830,1701,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,872,622,PAL8830
+PAL,Palm Beach,2024 General Election,8831,1107,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,575,379,PAL8831
+PAL,Palm Beach,2024 General Election,8832,1624,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,623,679,PAL8832
+PAL,Palm Beach,2024 General Election,8833,2055,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1003,707,PAL8833
+PAL,Palm Beach,2024 General Election,8834,2100,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,719,899,PAL8834
+PAL,Palm Beach,2024 General Election,8835,1250,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,700,363,PAL8835
+PAL,Palm Beach,2024 General Election,8836,1529,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,838,448,PAL8836
+PAL,Palm Beach,2024 General Election,8837,1361,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,632,439,PAL8837
+PAL,Palm Beach,2024 General Election,8838,1009,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,496,369,PAL8838
+PAL,Palm Beach,2024 General Election,8839,2004,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,969,672,PAL8839
+PAL,Palm Beach,2024 General Election,8840,1516,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,707,432,PAL8840
+PAL,Palm Beach,2024 General Election,8841,1658,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,855,555,PAL8841
+PAL,Palm Beach,2024 General Election,8842,1903,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,972,625,PAL8842
+PAL,Palm Beach,2024 General Election,8843,2298,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1086,853,PAL8843
+PAL,Palm Beach,2024 General Election,8844,562,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,253,221,PAL8844
+PAL,Palm Beach,2024 General Election,8845,9,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,3,2,PAL8845
+PAL,Palm Beach,2024 General Election,8846,2324,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1518,632,PAL8846
+PAL,Palm Beach,2024 General Election,8847,2171,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1427,579,PAL8847
+PAL,Palm Beach,2024 General Election,8848,980,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,652,265,PAL8848
+PAL,Palm Beach,2024 General Election,8849,1126,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,546,439,PAL8849
+PAL,Palm Beach,2024 General Election,8850,3189,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1635,1094,PAL8850
+PAL,Palm Beach,2024 General Election,8851,1484,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,945,388,PAL8851
+PAL,Palm Beach,2024 General Election,8852,693,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,382,222,PAL8852
+PAL,Palm Beach,2024 General Election,8853,1550,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,741,528,PAL8853
+PAL,Palm Beach,2024 General Election,8854,1967,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1043,605,PAL8854
+PAL,Palm Beach,2024 General Election,8855,1181,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,636,345,PAL8855
+PAL,Palm Beach,2024 General Election,8856,1316,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,705,380,PAL8856
+PAL,Palm Beach,2024 General Election,8857,1601,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,931,463,PAL8857
+PAL,Palm Beach,2024 General Election,8858,1019,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,651,276,PAL8858
+PAL,Palm Beach,2024 General Election,8859,1733,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,806,534,PAL8859
+PAL,Palm Beach,2024 General Election,8860,1532,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,749,566,PAL8860
+PAL,Palm Beach,2024 General Election,8861,1076,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,614,227,PAL8861
+PAL,Palm Beach,2024 General Election,8862,548,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,293,177,PAL8862
+PAL,Palm Beach,2024 General Election,8863,1329,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,846,349,PAL8863
+PAL,Palm Beach,2024 General Election,8864,1247,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,763,326,PAL8864
+PAL,Palm Beach,2024 General Election,8865,1261,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,766,360,PAL8865
+PAL,Palm Beach,2024 General Election,8866,763,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,434,246,PAL8866
+PAL,Palm Beach,2024 General Election,8867,1634,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,915,454,PAL8867
+PAL,Palm Beach,2024 General Election,8868,901,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,540,272,PAL8868
+PAL,Palm Beach,2024 General Election,8869,2398,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1347,728,PAL8869
+PAL,Palm Beach,2024 General Election,8870,1194,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,594,402,PAL8870
+PAL,Palm Beach,2024 General Election,8871,1750,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1116,444,PAL8871
+PAL,Palm Beach,2024 General Election,8872,1496,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,781,500,PAL8872
+PAL,Palm Beach,2024 General Election,8873,1135,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,638,364,PAL8873
+PAL,Palm Beach,2024 General Election,8874,2749,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1457,898,PAL8874
+PAL,Palm Beach,2024 General Election,8875,4420,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2399,1385,PAL8875
+PAL,Palm Beach,2024 General Election,8876,1044,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,691,264,PAL8876
+PAL,Palm Beach,2024 General Election,8877,918,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,557,267,PAL8877
+PAL,Palm Beach,2024 General Election,8878,811,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,418,280,PAL8878
+PAL,Palm Beach,2024 General Election,8879,1632,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,932,484,PAL8879
+PAL,Palm Beach,2024 General Election,8880,1803,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,913,558,PAL8880
+PAL,Palm Beach,2024 General Election,8881,455,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,238,132,PAL8881
+PAL,Palm Beach,2024 General Election,8882,879,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,497,265,PAL8882
+PAL,Palm Beach,2024 General Election,8883,1113,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,687,277,PAL8883
+PAL,Palm Beach,2024 General Election,8884,665,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,335,219,PAL8884
+PAL,Palm Beach,2024 General Election,8885,1430,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,813,389,PAL8885
+PAL,Palm Beach,2024 General Election,8886,1612,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,905,523,PAL8886
+PAL,Palm Beach,2024 General Election,8888,1283,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,582,300,PAL8888
+PAL,Palm Beach,2024 General Election,8889,1221,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,554,421,PAL8889
+PAL,Palm Beach,2024 General Election,8890,1835,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1054,544,PAL8890
+PAL,Palm Beach,2024 General Election,8891,1379,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,808,386,PAL8891
+PAL,Palm Beach,2024 General Election,8892,657,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,354,193,PAL8892
+PAL,Palm Beach,2024 General Election,8893,1856,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,872,539,PAL8893
+PAL,Palm Beach,2024 General Election,8894,732,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,388,238,PAL8894
+PAL,Palm Beach,2024 General Election,8895,1637,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,855,494,PAL8895
+PAL,Palm Beach,2024 General Election,8896,1515,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,844,411,PAL8896
+PAL,Palm Beach,2024 General Election,8897,1584,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,784,492,PAL8897
+PAL,Palm Beach,2024 General Election,8898,1943,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,968,627,PAL8898
+PAL,Palm Beach,2024 General Election,8899,4057,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2101,1359,PAL8899
+PAL,Palm Beach,2024 General Election,8901,1524,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,894,430,PAL8901
+PAL,Palm Beach,2024 General Election,8902,1751,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,971,571,PAL8902
+PAL,Palm Beach,2024 General Election,8904,77,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,30,36,PAL8904
+PAL,Palm Beach,2024 General Election,8905,594,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,316,190,PAL8905
+PAL,Palm Beach,2024 General Election,8906,659,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,413,159,PAL8906
+PAL,Palm Beach,2024 General Election,8907,783,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,489,173,PAL8907
+PAL,Palm Beach,2024 General Election,8908,367,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,194,109,PAL8908
+PAL,Palm Beach,2024 General Election,8910,950,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,472,339,PAL8910
+PAL,Palm Beach,2024 General Election,8912,178,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,112,40,PAL8912
+PAL,Palm Beach,2024 General Election,8913,1722,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,842,582,PAL8913
+PAL,Palm Beach,2024 General Election,8914,2156,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1056,771,PAL8914
+PAL,Palm Beach,2024 General Election,8915,2940,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1415,1023,PAL8915
+PAL,Palm Beach,2024 General Election,8917,1854,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,988,551,PAL8917
+PAL,Palm Beach,2024 General Election,8918,1801,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,867,626,PAL8918
+PAL,Palm Beach,2024 General Election,8919,2444,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1154,905,PAL8919
+PAL,Palm Beach,2024 General Election,8920,751,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,337,256,PAL8920
+PAL,Palm Beach,2024 General Election,8921,1687,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,784,612,PAL8921
+PAL,Palm Beach,2024 General Election,8922,1788,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,731,619,PAL8922
+PAL,Palm Beach,2024 General Election,8923,1383,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,658,443,PAL8923
+PAL,Palm Beach,2024 General Election,8924,1146,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,572,330,PAL8924
+PAL,Palm Beach,2024 General Election,8925,834,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,444,288,PAL8925
+PAL,Palm Beach,2024 General Election,8926,2300,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1119,800,PAL8926
+PAL,Palm Beach,2024 General Election,8927,1416,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,694,501,PAL8927
+PAL,Palm Beach,2024 General Election,8928,1725,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1018,492,PAL8928
+PAL,Palm Beach,2024 General Election,8929,1665,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1026,432,PAL8929
+PAL,Palm Beach,2024 General Election,8930,1948,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1005,661,PAL8930
+PAL,Palm Beach,2024 General Election,8931,2187,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1185,671,PAL8931
+PAL,Palm Beach,2024 General Election,8932,2313,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1100,788,PAL8932
+PAL,Palm Beach,2024 General Election,8933,2282,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1094,733,PAL8933
+PAL,Palm Beach,2024 General Election,8934,2455,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1279,760,PAL8934
+PAL,Palm Beach,2024 General Election,8935,707,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,320,293,PAL8935
+PAL,Palm Beach,2024 General Election,8936,2264,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1095,817,PAL8936
+PAL,Palm Beach,2024 General Election,8937,1048,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,539,345,PAL8937
+PAL,Palm Beach,2024 General Election,8938,1653,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,761,572,PAL8938
+PAL,Palm Beach,2024 General Election,8939,2555,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1123,798,PAL8939
+PAL,Palm Beach,2024 General Election,8941,1054,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,481,333,PAL8941
+PAL,Palm Beach,2024 General Election,8942,2098,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,912,668,PAL8942
+PAL,Palm Beach,2024 General Election,8943,2294,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,975,865,PAL8943
+PAL,Palm Beach,2024 General Election,8944,978,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,483,325,PAL8944
+PAL,Palm Beach,2024 General Election,8945,2432,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1129,843,PAL8945
+PAL,Palm Beach,2024 General Election,8946,986,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,452,342,PAL8946
+PAL,Palm Beach,2024 General Election,8947,1391,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,585,321,PAL8947
+PAL,Palm Beach,2024 General Election,8949,31,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,13,6,PAL8949
+PAL,Palm Beach,2024 General Election,8950,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8950
+PAL,Palm Beach,2024 General Election,8951,857,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,489,222,PAL8951
+PAL,Palm Beach,2024 General Election,8952,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8952
+PAL,Palm Beach,2024 General Election,8953,288,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,176,68,PAL8953
+PAL,Palm Beach,2024 General Election,8954,1555,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,780,492,PAL8954
+PAL,Palm Beach,2024 General Election,8955,643,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,270,230,PAL8955
+PAL,Palm Beach,2024 General Election,8956,1586,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,815,503,PAL8956
+PAL,Palm Beach,2024 General Election,8957,970,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,454,352,PAL8957
+PAL,Palm Beach,2024 General Election,8958,0,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,0,PAL8958
+PAL,Palm Beach,2024 General Election,9401,12,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,4,7,PAL9401
+PAL,Palm Beach,2024 General Election,9402,3,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,0,1,PAL9402
+PAL,Palm Beach,2024 General Election,9405,274,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,121,101,PAL9405
+PAL,Palm Beach,2024 General Election,9406,3181,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1476,1212,PAL9406
+PAL,Palm Beach,2024 General Election,9407,1690,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,778,634,PAL9407
+PAL,Palm Beach,2024 General Election,9408,1415,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,662,545,PAL9408
+PAL,Palm Beach,2024 General Election,9409,2360,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1070,911,PAL9409
+PAL,Palm Beach,2024 General Election,9410,2222,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1033,814,PAL9410
+PAL,Palm Beach,2024 General Election,9412,1783,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,822,698,PAL9412
+PAL,Palm Beach,2024 General Election,9413,1694,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,781,637,PAL9413
+PAL,Palm Beach,2024 General Election,9416,1850,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,848,669,PAL9416
+PAL,Palm Beach,2024 General Election,9417,2419,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1074,917,PAL9417
+PAL,Palm Beach,2024 General Election,9418,1676,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,848,558,PAL9418
+PAL,Palm Beach,2024 General Election,9419,1796,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,878,616,PAL9419
+PAL,Palm Beach,2024 General Election,9420,1854,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,863,655,PAL9420
+PAL,Palm Beach,2024 General Election,9421,32,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,20,7,PAL9421
+PAL,Palm Beach,2024 General Election,9422,2833,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1199,1210,PAL9422
+PAL,Palm Beach,2024 General Election,9423,397,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,190,151,PAL9423
+PAL,Palm Beach,2024 General Election,9424,1703,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,786,654,PAL9424
+PAL,Palm Beach,2024 General Election,9425,1253,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,617,437,PAL9425
+PAL,Palm Beach,2024 General Election,9426,1501,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,673,531,PAL9426
+PAL,Palm Beach,2024 General Election,9430,1067,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,484,434,PAL9430
+PAL,Palm Beach,2024 General Election,9431,525,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,242,196,PAL9431
+PAL,Palm Beach,2024 General Election,9432,1,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1,0,PAL9432
+PAL,Palm Beach,2024 General Election,9433,1446,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,935,364,PAL9433
+PAL,Palm Beach,2024 General Election,9434,1508,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,727,557,PAL9434
+PAL,Palm Beach,2024 General Election,9435,39,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,16,13,PAL9435
+PAL,Palm Beach,2024 General Election,9436,383,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,163,156,PAL9436
+PAL,Palm Beach,2024 General Election,9437,243,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,105,93,PAL9437
+PAL,Palm Beach,2024 General Election,9438,98,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,31,51,PAL9438
+PAL,Palm Beach,2024 General Election,9902,160,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,58,25,PAL9902
+PAS,Pasco,2024 General Election,1,2687,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1067,735,PAS1
+PAS,Pasco,2024 General Election,2,958,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,393,392,PAS2
+PAS,Pasco,2024 General Election,3,3488,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1271,1392,PAS3
+PAS,Pasco,2024 General Election,4,1451,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,564,598,PAS4
+PAS,Pasco,2024 General Election,5,3707,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1472,1435,PAS5
+PAS,Pasco,2024 General Election,6,6863,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2887,2099,PAS6
+PAS,Pasco,2024 General Election,7,2489,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1077,878,PAS7
+PAS,Pasco,2024 General Election,8,5644,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2392,2237,PAS8
+PAS,Pasco,2024 General Election,9,889,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,381,390,PAS9
+PAS,Pasco,2024 General Election,10,1149,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,461,550,PAS10
+PAS,Pasco,2024 General Election,11,3388,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1496,1140,PAS11
+PAS,Pasco,2024 General Election,12,4333,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1760,1642,PAS12
+PAS,Pasco,2024 General Election,13,2972,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1197,946,PAS13
+PAS,Pasco,2024 General Election,14,4641,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1995,1757,PAS14
+PAS,Pasco,2024 General Election,15,6476,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2837,1591,PAS15
+PAS,Pasco,2024 General Election,16,1403,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,613,459,PAS16
+PAS,Pasco,2024 General Election,17,7071,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,3118,2490,PAS17
+PAS,Pasco,2024 General Election,18,1256,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,584,321,PAS18
+PAS,Pasco,2024 General Election,19,2298,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,912,824,PAS19
+PAS,Pasco,2024 General Election,20,613,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,243,236,PAS20
+PAS,Pasco,2024 General Election,21,936,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,342,323,PAS21
+PAS,Pasco,2024 General Election,22,4248,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1747,1528,PAS22
+PAS,Pasco,2024 General Election,23,2118,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,880,616,PAS23
+PAS,Pasco,2024 General Election,24,321,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,148,123,PAS24
+PAS,Pasco,2024 General Election,25,5776,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2765,1440,PAS25
+PAS,Pasco,2024 General Election,26,2771,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1223,784,PAS26
+PAS,Pasco,2024 General Election,27,5941,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2525,2014,PAS27
+PAS,Pasco,2024 General Election,28,4017,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1815,1071,PAS28
+PAS,Pasco,2024 General Election,29,1579,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,670,386,PAS29
+PAS,Pasco,2024 General Election,30,3509,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1570,856,PAS30
+PAS,Pasco,2024 General Election,31,3538,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1574,1284,PAS31
+PAS,Pasco,2024 General Election,32,3483,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1527,924,PAS32
+PAS,Pasco,2024 General Election,33,5844,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2342,2142,PAS33
+PAS,Pasco,2024 General Election,34,3530,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1571,1099,PAS34
+PAS,Pasco,2024 General Election,35,9109,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,4008,3538,PAS35
+PAS,Pasco,2024 General Election,36,7600,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,3431,2927,PAS36
+PAS,Pasco,2024 General Election,37,3451,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1375,1251,PAS37
+PAS,Pasco,2024 General Election,38,3287,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1425,1172,PAS38
+PAS,Pasco,2024 General Election,39,3100,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1482,1144,PAS39
+PAS,Pasco,2024 General Election,40,1590,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,694,428,PAS40
+PAS,Pasco,2024 General Election,41,2075,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,904,742,PAS41
+PAS,Pasco,2024 General Election,42,5094,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2234,1450,PAS42
+PAS,Pasco,2024 General Election,43,858,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,385,217,PAS43
+PAS,Pasco,2024 General Election,44,1941,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,771,399,PAS44
+PAS,Pasco,2024 General Election,45,5110,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2129,2029,PAS45
+PAS,Pasco,2024 General Election,46,3842,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1780,890,PAS46
+PAS,Pasco,2024 General Election,47,1398,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,613,361,PAS47
+PAS,Pasco,2024 General Election,48,2967,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1371,1012,PAS48
+PAS,Pasco,2024 General Election,49,5134,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2334,1745,PAS49
+PAS,Pasco,2024 General Election,50,4040,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1681,1066,PAS50
+PAS,Pasco,2024 General Election,51,2740,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1228,736,PAS51
+PAS,Pasco,2024 General Election,52,5163,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2278,1674,PAS52
+PAS,Pasco,2024 General Election,53,2649,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1184,571,PAS53
+PAS,Pasco,2024 General Election,54,6010,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2716,1479,PAS54
+PAS,Pasco,2024 General Election,55,4968,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2118,1725,PAS55
+PAS,Pasco,2024 General Election,56,759,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,312,285,PAS56
+PAS,Pasco,2024 General Election,57,4954,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2154,1836,PAS57
+PAS,Pasco,2024 General Election,58,1649,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,743,445,PAS58
+PAS,Pasco,2024 General Election,59,6079,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2633,1939,PAS59
+PAS,Pasco,2024 General Election,60,2436,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1079,781,PAS60
+PAS,Pasco,2024 General Election,61,1219,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,536,502,PAS61
+PAS,Pasco,2024 General Election,62,5116,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2237,1890,PAS62
+PAS,Pasco,2024 General Election,63,709,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,260,242,PAS63
+PAS,Pasco,2024 General Election,64,1922,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,822,689,PAS64
+PAS,Pasco,2024 General Election,65,3935,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1782,1140,PAS65
+PAS,Pasco,2024 General Election,66,3640,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1673,906,PAS66
+PAS,Pasco,2024 General Election,67,6288,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2715,2113,PAS67
+PAS,Pasco,2024 General Election,68,3557,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1597,1055,PAS68
+PAS,Pasco,2024 General Election,69,4499,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1887,1457,PAS69
+PAS,Pasco,2024 General Election,70,4041,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1828,1599,PAS70
+PAS,Pasco,2024 General Election,71,1564,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,683,626,PAS71
+PAS,Pasco,2024 General Election,72,3053,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1332,1083,PAS72
+PAS,Pasco,2024 General Election,73,4698,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2188,1669,PAS73
+PAS,Pasco,2024 General Election,74,111,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,49,53,PAS74
+PAS,Pasco,2024 General Election,75,3464,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1593,994,PAS75
+PAS,Pasco,2024 General Election,76,2832,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1159,1331,PAS76
+PAS,Pasco,2024 General Election,77,3424,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1483,1096,PAS77
+PAS,Pasco,2024 General Election,78,2848,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1153,1224,PAS78
+PAS,Pasco,2024 General Election,79,1490,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,525,786,PAS79
+PAS,Pasco,2024 General Election,80,1124,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,486,457,PAS80
+PAS,Pasco,2024 General Election,81,1620,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,646,548,PAS81
+PAS,Pasco,2024 General Election,82,3352,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1384,1449,PAS82
+PAS,Pasco,2024 General Election,83,5855,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2331,2660,PAS83
+PAS,Pasco,2024 General Election,84,4164,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1733,1379,PAS84
+PAS,Pasco,2024 General Election,85,2768,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1258,975,PAS85
+PAS,Pasco,2024 General Election,86,2867,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1167,820,PAS86
+PAS,Pasco,2024 General Election,87,4859,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2122,1785,PAS87
+PAS,Pasco,2024 General Election,88,716,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,244,366,PAS88
+PAS,Pasco,2024 General Election,89,1525,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,701,463,PAS89
+PAS,Pasco,2024 General Election,90,5794,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2615,1978,PAS90
+PAS,Pasco,2024 General Election,91,3130,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1325,1329,PAS91
+PAS,Pasco,2024 General Election,92,1600,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,667,592,PAS92
+PAS,Pasco,2024 General Election,93,2771,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1239,956,PAS93
+PAS,Pasco,2024 General Election,94,2207,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1031,834,PAS94
+PAS,Pasco,2024 General Election,95,3431,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1571,1239,PAS95
+PAS,Pasco,2024 General Election,96,2441,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1162,758,PAS96
+PAS,Pasco,2024 General Election,97,4585,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2049,1488,PAS97
+PAS,Pasco,2024 General Election,98,2455,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1105,893,PAS98
+PAS,Pasco,2024 General Election,99,3291,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1444,1078,PAS99
+PAS,Pasco,2024 General Election,100,3213,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1433,1156,PAS100
+PAS,Pasco,2024 General Election,101,3417,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1507,1161,PAS101
+PAS,Pasco,2024 General Election,102,2206,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,984,806,PAS102
+PAS,Pasco,2024 General Election,103,2155,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,869,908,PAS103
+PAS,Pasco,2024 General Election,104,1116,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,483,329,PAS104
+PAS,Pasco,2024 General Election,105,3075,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1316,1299,PAS105
+PAS,Pasco,2024 General Election,106,5024,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2339,1972,PAS106
+PAS,Pasco,2024 General Election,107,4863,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2196,1722,PAS107
+PAS,Pasco,2024 General Election,108,6554,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2863,2284,PAS108
+PAS,Pasco,2024 General Election,109,1809,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,780,567,PAS109
+PAS,Pasco,2024 General Election,110,4016,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1832,1533,PAS110
+PAS,Pasco,2024 General Election,111,4274,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1812,1658,PAS111
+PAS,Pasco,2024 General Election,112,360,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,130,157,PAS112
+PAS,Pasco,2024 General Election,113,3105,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1381,1199,PAS113
+PAS,Pasco,2024 General Election,114,3727,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1365,1642,PAS114
+PAS,Pasco,2024 General Election,115,5268,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2240,1791,PAS115
+PAS,Pasco,2024 General Election,116,7814,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,3674,2417,PAS116
+PAS,Pasco,2024 General Election,117,6054,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2755,1896,PAS117
+PAS,Pasco,2024 General Election,118,1989,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,906,758,PAS118
+PAS,Pasco,2024 General Election,119,256,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,129,77,PAS119
+PAS,Pasco,2024 General Election,120,2455,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1106,938,PAS120
+PIN,Pinellas,2024 General Election,101,3442,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1915,679,PIN101
+PIN,Pinellas,2024 General Election,102,1534,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,864,313,PIN102
+PIN,Pinellas,2024 General Election,103,658,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,397,163,PIN103
+PIN,Pinellas,2024 General Election,104,1606,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,943,329,PIN104
+PIN,Pinellas,2024 General Election,105,3388,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1945,666,PIN105
+PIN,Pinellas,2024 General Election,106,760,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,447,196,PIN106
+PIN,Pinellas,2024 General Election,107,1758,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,989,421,PIN107
+PIN,Pinellas,2024 General Election,108,2773,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1626,571,PIN108
+PIN,Pinellas,2024 General Election,109,2151,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1272,344,PIN109
+PIN,Pinellas,2024 General Election,112,1268,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,715,254,PIN112
+PIN,Pinellas,2024 General Election,113,1733,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,949,264,PIN113
+PIN,Pinellas,2024 General Election,114,1128,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,612,173,PIN114
+PIN,Pinellas,2024 General Election,115,1280,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,680,185,PIN115
+PIN,Pinellas,2024 General Election,116,1511,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,786,208,PIN116
+PIN,Pinellas,2024 General Election,117,1105,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,541,122,PIN117
+PIN,Pinellas,2024 General Election,118,1175,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,736,245,PIN118
+PIN,Pinellas,2024 General Election,119,2684,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1406,284,PIN119
+PIN,Pinellas,2024 General Election,120,3194,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1641,391,PIN120
+PIN,Pinellas,2024 General Election,121,922,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,565,128,PIN121
+PIN,Pinellas,2024 General Election,122,258,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,168,53,PIN122
+PIN,Pinellas,2024 General Election,123,4627,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2787,1024,PIN123
+PIN,Pinellas,2024 General Election,125,1301,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,776,218,PIN125
+PIN,Pinellas,2024 General Election,126,1958,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1119,326,PIN126
+PIN,Pinellas,2024 General Election,127,1959,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1377,254,PIN127
+PIN,Pinellas,2024 General Election,128,2709,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1736,424,PIN128
+PIN,Pinellas,2024 General Election,129,2637,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1695,412,PIN129
+PIN,Pinellas,2024 General Election,130,3764,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2263,862,PIN130
+PIN,Pinellas,2024 General Election,131,1364,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,690,323,PIN131
+PIN,Pinellas,2024 General Election,132,1490,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,788,299,PIN132
+PIN,Pinellas,2024 General Election,133,1703,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,981,332,PIN133
+PIN,Pinellas,2024 General Election,134,1485,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,979,280,PIN134
+PIN,Pinellas,2024 General Election,135,3507,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2110,872,PIN135
+PIN,Pinellas,2024 General Election,136,1882,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1147,492,PIN136
+PIN,Pinellas,2024 General Election,137,1618,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,927,446,PIN137
+PIN,Pinellas,2024 General Election,138,2717,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1353,953,PIN138
+PIN,Pinellas,2024 General Election,139,1774,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,999,389,PIN139
+PIN,Pinellas,2024 General Election,140,4910,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2726,1229,PIN140
+PIN,Pinellas,2024 General Election,141,2177,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1384,450,PIN141
+PIN,Pinellas,2024 General Election,142,2310,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1246,714,PIN142
+PIN,Pinellas,2024 General Election,143,2138,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,980,772,PIN143
+PIN,Pinellas,2024 General Election,144,3726,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1922,1150,PIN144
+PIN,Pinellas,2024 General Election,145,1811,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,840,691,PIN145
+PIN,Pinellas,2024 General Election,146,1129,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,609,277,PIN146
+PIN,Pinellas,2024 General Election,147,1035,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,585,255,PIN147
+PIN,Pinellas,2024 General Election,148,3011,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1287,576,PIN148
+PIN,Pinellas,2024 General Election,149,1095,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,541,227,PIN149
+PIN,Pinellas,2024 General Election,150,3803,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1968,985,PIN150
+PIN,Pinellas,2024 General Election,151,1583,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,883,381,PIN151
+PIN,Pinellas,2024 General Election,152,1757,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,944,405,PIN152
+PIN,Pinellas,2024 General Election,153,3726,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1821,1062,PIN153
+PIN,Pinellas,2024 General Election,154,1103,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,499,459,PIN154
+PIN,Pinellas,2024 General Election,155,2934,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1465,765,PIN155
+PIN,Pinellas,2024 General Election,156,2442,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1183,702,PIN156
+PIN,Pinellas,2024 General Election,157,780,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,393,222,PIN157
+PIN,Pinellas,2024 General Election,158,2083,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1040,460,PIN158
+PIN,Pinellas,2024 General Election,159,3688,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1674,927,PIN159
+PIN,Pinellas,2024 General Election,160,4028,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1867,1530,PIN160
+PIN,Pinellas,2024 General Election,161,3174,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1663,689,PIN161
+PIN,Pinellas,2024 General Election,162,6643,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,3594,1317,PIN162
+PIN,Pinellas,2024 General Election,163,34,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,17,9,PIN163
+PIN,Pinellas,2024 General Election,165,1224,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,664,311,PIN165
+PIN,Pinellas,2024 General Election,166,2137,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,937,438,PIN166
+PIN,Pinellas,2024 General Election,200,1839,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,891,664,PIN200
+PIN,Pinellas,2024 General Election,201,2592,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1111,739,PIN201
+PIN,Pinellas,2024 General Election,202,2348,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1272,710,PIN202
+PIN,Pinellas,2024 General Election,203,2827,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1579,506,PIN203
+PIN,Pinellas,2024 General Election,205,1750,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,929,223,PIN205
+PIN,Pinellas,2024 General Election,206,1513,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,889,285,PIN206
+PIN,Pinellas,2024 General Election,208,2563,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1303,829,PIN208
+PIN,Pinellas,2024 General Election,209,2386,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1483,369,PIN209
+PIN,Pinellas,2024 General Election,210,1815,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1118,397,PIN210
+PIN,Pinellas,2024 General Election,212,1394,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,765,369,PIN212
+PIN,Pinellas,2024 General Election,213,1189,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,680,288,PIN213
+PIN,Pinellas,2024 General Election,214,3951,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1916,1071,PIN214
+PIN,Pinellas,2024 General Election,215,1378,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,578,549,PIN215
+PIN,Pinellas,2024 General Election,216,2793,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1499,733,PIN216
+PIN,Pinellas,2024 General Election,218,861,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,549,151,PIN218
+PIN,Pinellas,2024 General Election,219,1297,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,743,302,PIN219
+PIN,Pinellas,2024 General Election,220,1018,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,622,213,PIN220
+PIN,Pinellas,2024 General Election,221,1049,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,583,229,PIN221
+PIN,Pinellas,2024 General Election,222,4083,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2139,1134,PIN222
+PIN,Pinellas,2024 General Election,224,1543,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,774,194,PIN224
+PIN,Pinellas,2024 General Election,225,2682,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1659,474,PIN225
+PIN,Pinellas,2024 General Election,226,794,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,452,130,PIN226
+PIN,Pinellas,2024 General Election,227,1954,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1089,306,PIN227
+PIN,Pinellas,2024 General Election,228,687,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,403,102,PIN228
+PIN,Pinellas,2024 General Election,229,2073,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1147,535,PIN229
+PIN,Pinellas,2024 General Election,230,1625,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,803,611,PIN230
+PIN,Pinellas,2024 General Election,231,2132,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1031,672,PIN231
+PIN,Pinellas,2024 General Election,232,3031,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1540,893,PIN232
+PIN,Pinellas,2024 General Election,233,1760,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,988,437,PIN233
+PIN,Pinellas,2024 General Election,234,1545,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,786,413,PIN234
+PIN,Pinellas,2024 General Election,235,1938,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1003,609,PIN235
+PIN,Pinellas,2024 General Election,236,1979,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,981,471,PIN236
+PIN,Pinellas,2024 General Election,237,2053,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1022,595,PIN237
+PIN,Pinellas,2024 General Election,238,1369,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,679,384,PIN238
+PIN,Pinellas,2024 General Election,239,2995,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1618,764,PIN239
+PIN,Pinellas,2024 General Election,240,2090,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1038,600,PIN240
+PIN,Pinellas,2024 General Election,241,1877,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1015,591,PIN241
+PIN,Pinellas,2024 General Election,242,2092,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1032,528,PIN242
+PIN,Pinellas,2024 General Election,243,2287,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1078,501,PIN243
+PIN,Pinellas,2024 General Election,244,2651,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1244,734,PIN244
+PIN,Pinellas,2024 General Election,245,1866,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,895,553,PIN245
+PIN,Pinellas,2024 General Election,246,1722,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,844,439,PIN246
+PIN,Pinellas,2024 General Election,247,2178,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1004,607,PIN247
+PIN,Pinellas,2024 General Election,248,1690,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,814,440,PIN248
+PIN,Pinellas,2024 General Election,250,2865,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1372,800,PIN250
+PIN,Pinellas,2024 General Election,251,2354,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1075,773,PIN251
+PIN,Pinellas,2024 General Election,252,2303,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1115,813,PIN252
+PIN,Pinellas,2024 General Election,253,234,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,127,53,PIN253
+PIN,Pinellas,2024 General Election,254,1696,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,751,679,PIN254
+PIN,Pinellas,2024 General Election,255,1528,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,694,530,PIN255
+PIN,Pinellas,2024 General Election,256,1797,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,845,589,PIN256
+PIN,Pinellas,2024 General Election,257,2297,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1096,743,PIN257
+PIN,Pinellas,2024 General Election,258,1043,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,496,345,PIN258
+PIN,Pinellas,2024 General Election,259,5698,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2499,1588,PIN259
+PIN,Pinellas,2024 General Election,260,1501,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,688,449,PIN260
+PIN,Pinellas,2024 General Election,261,2936,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1403,820,PIN261
+PIN,Pinellas,2024 General Election,263,2069,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,979,775,PIN263
+PIN,Pinellas,2024 General Election,265,1967,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,908,566,PIN265
+PIN,Pinellas,2024 General Election,266,3101,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1445,1165,PIN266
+PIN,Pinellas,2024 General Election,267,1083,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,513,372,PIN267
+PIN,Pinellas,2024 General Election,268,2127,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,950,647,PIN268
+PIN,Pinellas,2024 General Election,269,2394,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1062,631,PIN269
+PIN,Pinellas,2024 General Election,274,1920,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,924,530,PIN274
+PIN,Pinellas,2024 General Election,275,800,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,432,180,PIN275
+PIN,Pinellas,2024 General Election,301,1143,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,542,387,PIN301
+PIN,Pinellas,2024 General Election,302,2341,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1004,848,PIN302
+PIN,Pinellas,2024 General Election,303,1902,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,878,594,PIN303
+PIN,Pinellas,2024 General Election,304,1078,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,485,406,PIN304
+PIN,Pinellas,2024 General Election,305,2855,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1346,977,PIN305
+PIN,Pinellas,2024 General Election,306,2612,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1163,1055,PIN306
+PIN,Pinellas,2024 General Election,307,3812,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1772,1276,PIN307
+PIN,Pinellas,2024 General Election,308,1129,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,542,427,PIN308
+PIN,Pinellas,2024 General Election,309,4481,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2117,1707,PIN309
+PIN,Pinellas,2024 General Election,310,2824,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1337,1059,PIN310
+PIN,Pinellas,2024 General Election,311,1442,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,694,500,PIN311
+PIN,Pinellas,2024 General Election,312,1400,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,633,562,PIN312
+PIN,Pinellas,2024 General Election,313,1743,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,763,733,PIN313
+PIN,Pinellas,2024 General Election,314,1317,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,644,485,PIN314
+PIN,Pinellas,2024 General Election,315,989,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,428,397,PIN315
+PIN,Pinellas,2024 General Election,316,595,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,256,272,PIN316
+PIN,Pinellas,2024 General Election,317,2981,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1459,729,PIN317
+PIN,Pinellas,2024 General Election,318,1616,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,804,476,PIN318
+PIN,Pinellas,2024 General Election,319,301,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,137,115,PIN319
+PIN,Pinellas,2024 General Election,320,2457,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1169,714,PIN320
+PIN,Pinellas,2024 General Election,321,1160,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,521,429,PIN321
+PIN,Pinellas,2024 General Election,322,5142,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2423,1505,PIN322
+PIN,Pinellas,2024 General Election,323,1998,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,948,595,PIN323
+PIN,Pinellas,2024 General Election,324,1347,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,648,276,PIN324
+PIN,Pinellas,2024 General Election,325,2429,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1128,738,PIN325
+PIN,Pinellas,2024 General Election,326,1754,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,815,413,PIN326
+PIN,Pinellas,2024 General Election,327,3561,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1632,1061,PIN327
+PIN,Pinellas,2024 General Election,328,1724,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,778,609,PIN328
+PIN,Pinellas,2024 General Election,329,1810,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,779,418,PIN329
+PIN,Pinellas,2024 General Election,330,1495,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,703,288,PIN330
+PIN,Pinellas,2024 General Election,331,3191,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1441,607,PIN331
+PIN,Pinellas,2024 General Election,333,1716,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,752,499,PIN333
+PIN,Pinellas,2024 General Election,334,1989,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,944,506,PIN334
+PIN,Pinellas,2024 General Election,335,2488,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1084,830,PIN335
+PIN,Pinellas,2024 General Election,336,1943,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,835,610,PIN336
+PIN,Pinellas,2024 General Election,337,3187,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1508,956,PIN337
+PIN,Pinellas,2024 General Election,338,2123,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,899,868,PIN338
+PIN,Pinellas,2024 General Election,339,2268,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1089,579,PIN339
+PIN,Pinellas,2024 General Election,340,1713,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,806,563,PIN340
+PIN,Pinellas,2024 General Election,341,1647,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,778,577,PIN341
+PIN,Pinellas,2024 General Election,342,1750,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,795,585,PIN342
+PIN,Pinellas,2024 General Election,343,2203,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,978,905,PIN343
+PIN,Pinellas,2024 General Election,344,3697,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1470,1684,PIN344
+PIN,Pinellas,2024 General Election,345,3238,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1612,909,PIN345
+PIN,Pinellas,2024 General Election,346,2687,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1201,601,PIN346
+PIN,Pinellas,2024 General Election,347,2418,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1158,780,PIN347
+PIN,Pinellas,2024 General Election,348,2074,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1015,737,PIN348
+PIN,Pinellas,2024 General Election,349,2566,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1238,998,PIN349
+PIN,Pinellas,2024 General Election,350,1717,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,786,540,PIN350
+PIN,Pinellas,2024 General Election,401,3557,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1606,1464,PIN401
+PIN,Pinellas,2024 General Election,402,1625,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,778,588,PIN402
+PIN,Pinellas,2024 General Election,403,2020,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,956,660,PIN403
+PIN,Pinellas,2024 General Election,404,1768,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,810,622,PIN404
+PIN,Pinellas,2024 General Election,405,1847,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,872,536,PIN405
+PIN,Pinellas,2024 General Election,406,1684,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,754,605,PIN406
+PIN,Pinellas,2024 General Election,407,1199,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,525,386,PIN407
+PIN,Pinellas,2024 General Election,408,1390,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,628,471,PIN408
+PIN,Pinellas,2024 General Election,409,976,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,438,297,PIN409
+PIN,Pinellas,2024 General Election,415,3059,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1339,1027,PIN415
+PIN,Pinellas,2024 General Election,416,1153,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,515,401,PIN416
+PIN,Pinellas,2024 General Election,417,1220,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,529,451,PIN417
+PIN,Pinellas,2024 General Election,418,1751,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,791,624,PIN418
+PIN,Pinellas,2024 General Election,419,1086,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,439,456,PIN419
+PIN,Pinellas,2024 General Election,420,2832,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1342,956,PIN420
+PIN,Pinellas,2024 General Election,421,91,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,31,45,PIN421
+PIN,Pinellas,2024 General Election,422,1388,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,515,618,PIN422
+PIN,Pinellas,2024 General Election,500,1301,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,535,244,PIN500
+PIN,Pinellas,2024 General Election,501,3146,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1423,827,PIN501
+PIN,Pinellas,2024 General Election,502,2201,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1008,669,PIN502
+PIN,Pinellas,2024 General Election,503,1529,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,772,512,PIN503
+PIN,Pinellas,2024 General Election,504,2585,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1208,875,PIN504
+PIN,Pinellas,2024 General Election,505,2254,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,812,785,PIN505
+PIN,Pinellas,2024 General Election,506,2562,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1184,776,PIN506
+PIN,Pinellas,2024 General Election,507,2038,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,885,739,PIN507
+PIN,Pinellas,2024 General Election,508,1689,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,773,524,PIN508
+PIN,Pinellas,2024 General Election,509,1171,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,532,301,PIN509
+PIN,Pinellas,2024 General Election,510,2206,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,857,568,PIN510
+PIN,Pinellas,2024 General Election,511,920,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,338,375,PIN511
+PIN,Pinellas,2024 General Election,512,1051,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,476,201,PIN512
+PIN,Pinellas,2024 General Election,513,2441,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,940,1047,PIN513
+PIN,Pinellas,2024 General Election,514,2208,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,915,729,PIN514
+PIN,Pinellas,2024 General Election,515,2444,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,972,981,PIN515
+PIN,Pinellas,2024 General Election,516,3649,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1441,1034,PIN516
+PIN,Pinellas,2024 General Election,517,2019,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,995,472,PIN517
+PIN,Pinellas,2024 General Election,518,4960,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2072,1744,PIN518
+PIN,Pinellas,2024 General Election,519,4353,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1397,1962,PIN519
+PIN,Pinellas,2024 General Election,520,993,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,453,331,PIN520
+PIN,Pinellas,2024 General Election,521,2049,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,855,744,PIN521
+PIN,Pinellas,2024 General Election,522,4226,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1926,1462,PIN522
+PIN,Pinellas,2024 General Election,523,2156,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,947,807,PIN523
+PIN,Pinellas,2024 General Election,524,1138,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,538,308,PIN524
+PIN,Pinellas,2024 General Election,525,1294,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,594,468,PIN525
+PIN,Pinellas,2024 General Election,526,5495,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2748,1709,PIN526
+PIN,Pinellas,2024 General Election,527,2689,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1266,834,PIN527
+PIN,Pinellas,2024 General Election,528,1891,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,929,517,PIN528
+PIN,Pinellas,2024 General Election,529,2052,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1007,602,PIN529
+PIN,Pinellas,2024 General Election,530,2755,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1338,953,PIN530
+PIN,Pinellas,2024 General Election,531,2869,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1327,902,PIN531
+PIN,Pinellas,2024 General Election,532,1863,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,903,690,PIN532
+PIN,Pinellas,2024 General Election,533,2032,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1039,698,PIN533
+PIN,Pinellas,2024 General Election,534,2390,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1171,885,PIN534
+PIN,Pinellas,2024 General Election,535,4986,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2547,1559,PIN535
+PIN,Pinellas,2024 General Election,536,2820,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1230,1117,PIN536
+PIN,Pinellas,2024 General Election,537,3703,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2056,935,PIN537
+PIN,Pinellas,2024 General Election,538,4138,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1945,1420,PIN538
+PIN,Pinellas,2024 General Election,539,2933,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1406,1046,PIN539
+PIN,Pinellas,2024 General Election,540,5115,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2537,1751,PIN540
+PIN,Pinellas,2024 General Election,541,2187,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1070,755,PIN541
+PIN,Pinellas,2024 General Election,542,4456,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2151,1553,PIN542
+PIN,Pinellas,2024 General Election,543,2378,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1128,841,PIN543
+PIN,Pinellas,2024 General Election,544,3573,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1528,1166,PIN544
+PIN,Pinellas,2024 General Election,545,1376,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,657,539,PIN545
+PIN,Pinellas,2024 General Election,600,2,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1,1,PIN600
+PIN,Pinellas,2024 General Election,601,4713,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2200,1276,PIN601
+PIN,Pinellas,2024 General Election,602,2362,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1115,834,PIN602
+PIN,Pinellas,2024 General Election,603,3865,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1790,1107,PIN603
+PIN,Pinellas,2024 General Election,604,860,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,351,321,PIN604
+PIN,Pinellas,2024 General Election,605,1602,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,720,346,PIN605
+PIN,Pinellas,2024 General Election,606,2268,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1200,729,PIN606
+PIN,Pinellas,2024 General Election,607,1382,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,604,389,PIN607
+PIN,Pinellas,2024 General Election,608,1884,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,888,613,PIN608
+PIN,Pinellas,2024 General Election,609,1804,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,855,531,PIN609
+PIN,Pinellas,2024 General Election,610,1624,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,831,512,PIN610
+PIN,Pinellas,2024 General Election,611,2611,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1112,1095,PIN611
+PIN,Pinellas,2024 General Election,612,2010,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,989,656,PIN612
+PIN,Pinellas,2024 General Election,613,1339,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,699,448,PIN613
+PIN,Pinellas,2024 General Election,614,3444,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1762,1175,PIN614
+PIN,Pinellas,2024 General Election,615,2631,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1291,939,PIN615
+PIN,Pinellas,2024 General Election,616,2982,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1445,959,PIN616
+PIN,Pinellas,2024 General Election,617,3871,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1854,1314,PIN617
+PIN,Pinellas,2024 General Election,618,1387,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,596,582,PIN618
+PIN,Pinellas,2024 General Election,619,1635,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,803,562,PIN619
+PIN,Pinellas,2024 General Election,620,3031,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1413,974,PIN620
+PIN,Pinellas,2024 General Election,621,2827,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1288,1014,PIN621
+PIN,Pinellas,2024 General Election,622,3982,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1892,1219,PIN622
+PIN,Pinellas,2024 General Election,623,2968,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1298,1275,PIN623
+PIN,Pinellas,2024 General Election,624,1528,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,711,506,PIN624
+PIN,Pinellas,2024 General Election,625,2139,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1061,630,PIN625
+PIN,Pinellas,2024 General Election,626,2151,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1061,627,PIN626
+PIN,Pinellas,2024 General Election,627,5860,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2675,2278,PIN627
+PIN,Pinellas,2024 General Election,628,1703,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,773,547,PIN628
+PIN,Pinellas,2024 General Election,629,1829,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,810,613,PIN629
+PIN,Pinellas,2024 General Election,630,1851,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,899,608,PIN630
+PIN,Pinellas,2024 General Election,631,2125,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,953,688,PIN631
+PIN,Pinellas,2024 General Election,632,3087,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1402,1304,PIN632
+PIN,Pinellas,2024 General Election,633,3718,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1775,1350,PIN633
+PIN,Pinellas,2024 General Election,634,1909,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,837,704,PIN634
+PIN,Pinellas,2024 General Election,635,2594,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1179,1040,PIN635
+PIN,Pinellas,2024 General Election,636,2511,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1123,1050,PIN636
+PIN,Pinellas,2024 General Election,637,5417,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,2442,1958,PIN637
+PIN,Pinellas,2024 General Election,638,3394,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1471,1453,PIN638
+PIN,Pinellas,2024 General Election,701,4159,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1942,1457,PIN701
+PIN,Pinellas,2024 General Election,702,1863,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,922,497,PIN702
+PIN,Pinellas,2024 General Election,703,1624,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,762,529,PIN703
+PIN,Pinellas,2024 General Election,704,3038,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1346,994,PIN704
+PIN,Pinellas,2024 General Election,705,2366,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1049,822,PIN705
+PIN,Pinellas,2024 General Election,706,2467,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1068,919,PIN706
+PIN,Pinellas,2024 General Election,710,669,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,283,252,PIN710
+PIN,Pinellas,2024 General Election,711,3055,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1261,1314,PIN711
+PIN,Pinellas,2024 General Election,712,4036,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1822,1087,PIN712
 POL,Polk,2024 General Election,101,2568,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,936,980,POL101
 POL,Polk,2024 General Election,102,1286,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,471,616,POL102
 POL,Polk,2024 General Election,103,4391,0,0,Amendment No. 3: Adult Personal Use of Marijuana, ,1745,1360,POL103
